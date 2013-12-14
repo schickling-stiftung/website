@@ -2,19 +2,103 @@
 
 body
   background: #fff
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif 
+  font-weight: 300
+  font-size: 13px
 
 #main
   width: 1000px
   margin: 0 auto
 
-#header
-  width: 1000px
-  height: 224px
-  float: left
-  background: #000
+  #header
+    width: 1000px
+    height: 224px
+    float: left
+    background: #000
+
+    #headerImage
+      float: left
+      width: 720px
+      height: 280px
+
+    #logoWrapper
+      float: left
+      width: 280px
+      height: 224px
+      position: relative
+
+      #logo
+        position: absolute
+        width: 118px
+        height: 134px
+        top: 36px
+        right: 24px
+        background: url('../images/logo.jpg')
+
+      #logoTitle
+        position: absolute
+        bottom: 20px
+        right: 24px
+        color: #fff
+
+  #nav
+    float: left
+    width: 720px
+    height: 34px
+    background: #d2d6dd
+
+    ul
+      margin: 8px 0
+      padding: 0
+    
+      li
+        display: inline
+        list-style: none
+        padding: 0 8px 0 34px
+        font-size: 14px
+
+        a
+          color: #000
+          text-decoration: none
+
+        a.active
+          font-weight: bold
+
+  #recentHead
+    float: left
+    width: 280px
+    height: 34px
+    font-weight: bold
+    background: #b3b6bc
+    padding: 8px 0 0 14px
+    -webkit-box-sizing: border-box /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box    /* Firefox, other Gecko */
+    box-sizing: border-box
+
+  #contentWrapper
+    float: left
+    width: 1000px
+
+    #subnav
+      float: left
+      width: 120px
+      min-height: 400px
+
+    #content
+      float: left
+      width: 600px
+      min-height: 400px
+
+    #recent
+      float: left
+      width: 280px
+      background: #d2d6dd
 
 #footer
+  position: fixed
   width: 1000px
   height: 180px
-  float: left
+  left: 50%
+  bottom: 0
+  margin-left: -500px
   background: #000

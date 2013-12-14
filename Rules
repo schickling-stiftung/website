@@ -29,11 +29,11 @@ compile '*' do
     filter :erb
     filter :rdiscount
   elsif ext == 'html'
-  else
-    raise "Filter is not configured for #{item.identifier} in Rules file."
   end
   
-  layout 'default'
+  unless item.binary?
+    layout 'default'
+  end
 
 end
 
