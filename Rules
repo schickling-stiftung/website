@@ -18,8 +18,6 @@ compile '/assets/css/*/' do
 end
 
 compile '*' do
-  # item[:extension] returns 'html.erb' for multi-dotted filename
-  ext = item[:extension].nil? ? nil : item[:extension].split('.').last
 
   if ext == 'erb'
     filter :erb
@@ -32,6 +30,8 @@ compile '*' do
   else
     raise "Filter is not configured for #{item.identifier} in Rules file."
   end
+  
+  layout 'default'
 
 end
 
