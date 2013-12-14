@@ -1,11 +1,15 @@
 #! /bin/sh
 
 rm -rf output
-nanoc compile
+mkdir output
 cd output
 git init
+git checkout -b gh-pages
+git remote add origin git@github.com:schickling-stiftung/website.git
+git pull origin gh-pages
+cd ..
+nanoc compile
+cd output
 git add .
 git commit -am "Deploy"
-git branch -m master gh-pages
-git remote add origin git@github.com:schickling-stiftung/website.git
 git push origin gh-pages
