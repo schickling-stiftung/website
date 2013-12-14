@@ -13,21 +13,30 @@
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
-compile '/stylesheet/' do
-  # don’t filter or layout
+compile '/assets/css/*/' do
+  filter :sass
 end
 
 compile '*' do
-  if item.binary?
-    # don’t filter binary items
-  else
+  # item[:extension] returns 'html.erb' for multi-dotted filename
+  ext = item[:extension].nil? ? nil : item[:extension].split('.').last
+
+  if ext == 'erb'
     filter :erb
-    layout 'default'
+  elsif ext == 'haml' || ext.nil?
+    filter :haml
+  elsif ext == 'md' || ext == 'markdown'
+    filter :erb
+    filter :rdiscount
+  elsif ext == 'html'
+  else
+    raise "Filter is not configured for #{item.identifier} in Rules file."
   end
+
 end
 
-route '/stylesheet/' do
-  '/style.css'
+route '/assets/css/*/' do
+  item.identifier.chop + '.css'
 end
 
 route '*' do
@@ -40,4 +49,4 @@ route '*' do
   end
 end
 
-layout '*', :erb
+layout '*', :haml
