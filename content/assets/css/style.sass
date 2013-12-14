@@ -1,7 +1,15 @@
 @import 'normalize'
 
-html, body
-  height: 100%
+@mixin clearfix
+  &:after
+    content: ""
+    display: table
+    clear: both
+
+div
+  -webkit-box-sizing: border-box /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box    /* Firefox, other Gecko */
+  box-sizing: border-box
 
 body
   background: #fff
@@ -12,7 +20,11 @@ body
 #main
   width: 1000px
   margin: 0 auto
-  height: 100%
+  position: absolute
+  top: 0
+  left: 0
+  right: 0
+  bottom: 180px
 
   #header
     width: 1000px
@@ -75,14 +87,13 @@ body
     font-weight: bold
     background: #b3b6bc
     padding: 8px 0 0 14px
-    -webkit-box-sizing: border-box /* Safari/Chrome, other WebKit */
-    -moz-box-sizing: border-box    /* Firefox, other Gecko */
-    box-sizing: border-box
 
   #contentWrapper
     float: left
     width: 1000px
-    height: 100%
+    margin-bottom: 180px
+    @include clearfix
+    background: url('../images/bg.jpg') repeat-y
 
     #subnav
       float: left
@@ -93,12 +104,13 @@ body
       float: left
       width: 600px
       min-height: 400px
+      padding-right: 20px
+      text-align: justify
 
     #recent
       float: left
       width: 280px
-      background: #d2d6dd
-      height: 100%
+      padding: 16px 14px
 
 #footer
   position: fixed
