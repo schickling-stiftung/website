@@ -4,7 +4,12 @@ website
 ## Dependencies
 
 ```sh
-$ gem install nanoc adsf kramdown
+$ gem install bundler
+```
+
+## Installation
+```sh
+$ bundle install
 ```
 
 ## Usage
