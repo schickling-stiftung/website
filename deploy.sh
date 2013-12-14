@@ -7,6 +7,7 @@ git init
 git checkout -b gh-pages
 git remote add origin git@github.com:schickling-stiftung/website.git
 git pull origin gh-pages
+git rm -r *
 cd ..
 nanoc compile
 cd output
