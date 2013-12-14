@@ -9,17 +9,12 @@ $ gem install nanoc adsf kramdown
 
 ## Usage
 
-#### Autocompile
+#### Development
 ```sh
-$ nanoc autocompile
+$ guard
 ```
 
-#### Compile
-```sh
-$ nanoc compile
-```
-
-#### View
+#### Preview
 ```sh
 $ nanoc view
 ```
