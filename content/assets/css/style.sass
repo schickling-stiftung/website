@@ -6,6 +6,9 @@
     display: table
     clear: both
 
+
+$footerHeight: 180px
+
 div
   -webkit-box-sizing: border-box /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box    /* Firefox, other Gecko */
@@ -24,7 +27,7 @@ body
   top: 0
   left: 0
   right: 0
-  bottom: 180px
+  bottom: $footerHeight
 
   #header
     width: 1000px
@@ -91,7 +94,7 @@ body
   #contentWrapper
     float: left
     width: 1000px
-    margin-bottom: 180px
+    margin-bottom: $footerHeight
     @include clearfix
     background: url('../images/bg.jpg') repeat-y
 
@@ -115,8 +118,23 @@ body
 #footer
   position: fixed
   width: 1000px
-  height: 180px
+  height: $footerHeight
   left: 50%
   bottom: 0
   margin-left: -500px
   background: #000
+
+  #gallery
+    float: left
+    width: 720px
+
+    img
+      height: 120px
+      margin: 4px 0 4px 4px
+
+  #footerNote
+    float: left
+    width: 280px
+    padding: 12px 0 0 14px
+    font-weight: bold
+    color: #2d8e58
