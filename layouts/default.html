@@ -37,7 +37,9 @@
             <%= yield %>
         </div>
         <div id="recent">
-            Some more text!!
+            <% unless item.identifier == '/aktuelles/' %>
+            <%= items['/aktuelles/'].compiled_content %>
+            <% end %>
         </div>
     </div>
 </div> 
