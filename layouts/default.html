@@ -43,7 +43,9 @@
 </div> 
 <div id="footer">
     <div id="gallery">
-        <img src="/test.jpg" alt="" /><img src="/test.jpg" alt="" /><img src="/test.jpg" alt="" /><img src="/test.jpg" alt="" />
+        <% if item[:images] %>
+        <% item[:images].each do |image| %><a href="<%= image[:link] %>"><img src="<%= image[:file] %>" /></a><% end %>
+        <% end %>
     </div>
     <div id="footerNote">
         Bildgedanke

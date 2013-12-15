@@ -1,6 +1,8 @@
 # All files in the 'lib' directory will be loaded
 # before nanoc starts compiling.
 
+require "awesome_print"
+
 def header_path (item)
     path = item.path
     until path == '/' do

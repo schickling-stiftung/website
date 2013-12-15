@@ -5,4 +5,4 @@ gem 'rdiscount'
 gem 'sass'
 gem 'adsf'
 gem 'guard-nanoc'
-
+gem 'awesome_print'
