@@ -20,6 +20,10 @@ body
   font-weight: 300
   font-size: 13px
 
+a
+  text-decoration: none
+  color: #000
+
 #main
   width: 1000px
   margin: 0 auto
@@ -76,10 +80,6 @@ body
         padding: 0 8px 0 34px
         font-size: 14px
 
-        a
-          color: #000
-          text-decoration: none
-
         a.active
           font-weight: bold
 
@@ -102,6 +102,18 @@ body
       float: left
       width: 120px
       min-height: 400px
+      padding: 18px
+
+      ul
+        margin: 0
+        padding: 0
+
+        li
+          list-style: none
+          margin-bottom: 10px
+
+          a.active
+            font-weight: bold
 
     #content
       float: left

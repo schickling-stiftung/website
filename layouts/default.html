@@ -31,7 +31,13 @@
     </div>
     <div id="contentWrapper">
         <div id="subnav">
-
+            <ul>
+                <% if item[:subnav] %>
+                <% item[:subnav].each do |el| %>
+                <li><a class="<% if item.identifier == el[:link] %>active<% end %>" href="<%= el[:link] %>"><%= el[:text] %></a></li>
+                <% end %>
+                <% end %>
+            </ul>
         </div>
         <div id="content">
             <%= yield %>

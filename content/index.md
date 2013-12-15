@@ -1,8 +1,13 @@
 ---
 title: Startseite
 images:
-  - link: /erich-schickling
+  - link: /erich-schickling/
     file: test.jpg
+subnav:
+  - text: Vita
+    link: /
+  - text: Kontakt
+    link: /kontakt/
 ---
 
 ### Lorem ipsum dolor
