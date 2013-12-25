@@ -2,7 +2,13 @@
 title: Startseite
 images:
   - link: /erich-schickling/
-    file: test.jpg
+    file: david.jpg
+  - link: 2
+    file: turm.jpg
+  - link: 3
+    file: sonne.jpg
+  - link: 4
+    file: loewenzahn.jpg
 -subnav:
   - text: Vita
     link: /
