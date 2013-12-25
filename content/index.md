@@ -3,24 +3,14 @@ title: Startseite
 images:
   - link: /erich-schickling/
     file: test.jpg
-subnav:
+-subnav:
   - text: Vita
     link: /
   - text: Kontakt
     link: /kontakt/
 ---
 
-### Lorem ipsum dolor
-Dolor sit amet, _consectetur adipisicing elit_, sed do eiusmod **tempor incididunt** ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea **commodo consequat**. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint _occaecat cupidatat non proident_, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Die Erich-Schickling-Stiftung in Eggisried nahe Ottobeuren hat ihre Mitte in den Bildern und Glasfenstern des Künstlers Erich Schickling (1924 - 2012). Seine Werke sind in vielen Kirchen und öffentlichen Räumen Bayerns und weit darüber hinaus zu finden. Hier inmitten des Günztales im Zusammenspiel von Natur und Architektur entfalten Schicklings Glasfenster und Hinterglasbilder ihre farbig suggestive Kraft, führen biblische und mythologische Gestalten in grossformatigen Malereien an die Quellen abendländischer Kultur und Glaubenskraft. Landschaftsbilder verbinden das Innen und Aussen lichterfüllter Räume. Ob der Besucher zufällig als Günztalwanderer hierher gelangt oder als Kunstpilger den abgelegenen Ort aufsucht, er lädt zum Verweilen, zum Innehalten, zum Sinnen ein.
+> „ein Gott ist der Mensch, wenn er träumt, ein Bettler, wenn er nachdenkt“ - Hölderlin
 
-- Some item - Some other item
-
-### Lorem ipsum dolor
-Dolor sit amet, _consectetur adipisicing elit_, sed do eiusmod **tempor incididunt** ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea **commodo consequat**. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint _occaecat cupidatat non proident_, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- Some item - Some other item
-
-### Lorem ipsum dolor
-Dolor sit amet, _consectetur adipisicing elit_, sed do eiusmod **tempor incididunt** ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea **commodo consequat**. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint _occaecat cupidatat non proident_, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- Some item - Some other item
+Die Erich-Schickling-Stiftung ist ein stiller gewachsener Ort der Begegnung von Kunst und Religion. In Führungen und Bildbetrachtungen, in Konzerten und Lesungen ist Raum und Zeit zu solchem Träumen: im Schauen und im Hören.
