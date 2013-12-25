@@ -13,7 +13,7 @@ def header_path (item)
         else
             path_tokens = path.split('/')
             if path_tokens.size > 1
-                path = (path_tokens.first path_tokens.size - 1).join('/')
+                path = (path_tokens.first path_tokens.size - 1).join('/') + '/'
             else
                 path = '/'
             end
