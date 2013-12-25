@@ -2,17 +2,10 @@
 title: Aktuelles
 ---
 
-### Aktuell
-Dolor sit amet, _consectetur adipisicing elit_, sed do eiusmod **tempor incididunt** ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea **commodo consequat**. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint _occaecat cupidatat non proident_, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Führungen** finden im Winter nur auf Anfrage statt. Ab April wieder sonntags um 15 Uhr. Anmeldung empfohlen unter Tel. 08332-936424 oder 0171-9715083      info@schickling-stiftung.de
 
-- Some item - Some other item
+Eintritt 5 €, freier Eintritt für Jugendliche sowie für Mitglieder des Förderkreises. Für Gruppen können auch andere Termine vereinbart werden.
 
-### Lorem ipsum dolor
-Dolor sit amet, _consectetur adipisicing elit_, sed do eiusmod **tempor incididunt** ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea **commodo consequat**. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint _occaecat cupidatat non proident_, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Veranstaltungen 2014
 
-- Some item - Some other item
-
-### Lorem ipsum dolor
-Dolor sit amet, _consectetur adipisicing elit_, sed do eiusmod **tempor incididunt** ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea **commodo consequat**. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint _occaecat cupidatat non proident_, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- Some item - Some other item
+Rückblick
