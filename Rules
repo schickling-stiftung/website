@@ -27,7 +27,11 @@ compile '*' do
     elsif ext == 'md' || ext == 'markdown'
         filter :erb
         filter :kramdown
-    elsif ext == 'html'
+    elsif ext == 'jpg'
+        short_filename = item[:filename].split('/').last
+        if short_filename.include? "-g"
+            filter :resize, height: 120
+        end
     end
 
     unless item.binary?

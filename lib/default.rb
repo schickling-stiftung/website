@@ -21,3 +21,12 @@ def header_path (item)
     end
     path + 'header.jpg'
 end
+
+class ImageResizeFilter < Nanoc::Filter
+    identifier :resize
+    type :binary
+
+    def run(filename, params = {})
+        system("convert #{filename} -resize x#{params[:height]} #{output_filename}")
+    end
+end
