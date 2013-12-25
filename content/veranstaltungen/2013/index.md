@@ -1,5 +1,11 @@
 ---
 title: 2013
+images:
+  - link: /erich-schickling/
+    file: riehm.jpg
+subnav:
+  - text: 2013
+    link: /veranstaltungen/2013/
 ---
 
 Sonntag, 3. März, 15 Uhr (im beheizbaren Innenraum) Winterpodium junger Künstler Katrin Lösch, Querflöte (Innsbruck / Karlsruhe)
