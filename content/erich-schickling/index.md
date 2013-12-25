@@ -7,17 +7,8 @@ images:
     file: test.jpg
 ---
 
-### Lorem ipsum dolor
-Dolor sit amet, _consectetur adipisicing elit_, sed do eiusmod **tempor incididunt** ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea **commodo consequat**. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint _occaecat cupidatat non proident_, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> "Wer immer Erich Schickling begegnet, wird auf einen Menschen treffen, der in ungewöhnlicher Weise erfüllt ist vom Mysterium des Glaubens, dem Wunder der Schöpfung, dessen Herz davon voll ist und dessen Mund davon überfließt. Diese strahlende Gläubigkeit, in der eine gotteskindliche Freude schwingt, ist die Wurzel seines gesamten Schaffens."  
+Dr. Thea Lethmair, Augsburg 1984
 
-- Some item - Some other item
+„Mir ist wichtig, den geheimen Sinn, der in uns angelegt ist, durch die Malerei zu erhellen.Unmittelbar ist immer wieder das Glas das Medium, welches mich fasziniert, nicht Abbilder zu schaffen, sondern im Gleichnis des Transzendenten in mir und in allem innezuwerden.“(Erich Schickling)
 
-### Lorem ipsum dolor
-Dolor sit amet, _consectetur adipisicing elit_, sed do eiusmod **tempor incididunt** ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea **commodo consequat**. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint _occaecat cupidatat non proident_, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- Some item - Some other item
-
-### Lorem ipsum dolor
-Dolor sit amet, _consectetur adipisicing elit_, sed do eiusmod **tempor incididunt** ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea **commodo consequat**. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint _occaecat cupidatat non proident_, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- Some item - Some other item
