@@ -6,8 +6,7 @@ images:
   - link: 2
     file: turm.jpg
   - link: 3
-    file: david.jpg
-     
+    file: david.jpg   
 ---
 
 > "Wer immer Erich Schickling begegnet, wird auf einen Menschen treffen, der in ungewöhnlicher Weise erfüllt ist vom Mysterium des Glaubens, dem Wunder der Schöpfung, dessen Herz davon voll ist und dessen Mund davon überfließt. Diese strahlende Gläubigkeit, in der eine gotteskindliche Freude schwingt, ist die Wurzel seines gesamten Schaffens."  
