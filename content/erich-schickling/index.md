@@ -2,11 +2,13 @@
 title: Erich Schickling
 images:
   - link: http://www.google.com
-    file: kreuzigung.jpg
+    file: g-erichostermorgen.jpg
   - link: 2
-    file: turm.jpg
+    file: g-kreuzigung.jpg
   - link: 3
-    file: david.jpg
+    file: g-meditationsraum.jpg
+  - link: 4
+    file: g-benedikt.jpg
 subnav:
   - text: Der Künstler
     link: /erich-schickling/
