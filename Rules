@@ -29,7 +29,7 @@ compile '*' do
         filter :kramdown
     elsif ext == 'jpg'
         short_filename = item[:filename].split('/').last
-        if short_filename.include? "-g"
+        if short_filename.include? "g-"
             filter :resize, height: 120
         end
     end
