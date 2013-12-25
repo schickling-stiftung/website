@@ -1,12 +1,17 @@
 ---
-title: Startseite
+title: Erich Schickling
 images:
   - link: http://www.google.com
     file: kreuzigung.jpg
   - link: 2
     file: turm.jpg
   - link: 3
-    file: david.jpg   
+    file: david.jpg
+subnav:
+  - text: Der Künstler
+    link: /erich-schickling/
+  - text: Vita
+    link: /erich-schickling/vita/
 ---
 
 > "Wer immer Erich Schickling begegnet, wird auf einen Menschen treffen, der in ungewöhnlicher Weise erfüllt ist vom Mysterium des Glaubens, dem Wunder der Schöpfung, dessen Herz davon voll ist und dessen Mund davon überfließt. Diese strahlende Gläubigkeit, in der eine gotteskindliche Freude schwingt, ist die Wurzel seines gesamten Schaffens."  
