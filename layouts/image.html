@@ -19,7 +19,7 @@
     <div id="recentHead">
         Aktuelles
     </div>
-    <div id="contentWrapper">
+    <div id="contentWrapper" style="padding: 0;">
         <div id="subnav">
             <ul>
                 <% if item[:subnav] %>
@@ -40,7 +40,7 @@
         <div id="imageTitle">
             <%= item[:title] %>
         </div>
-        <div id="imageText">
+        <div id="imageText" class="text">
             <%= yield %>
         </div>
         <div id="footerNote">

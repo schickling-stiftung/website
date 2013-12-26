@@ -1,6 +1,13 @@
 @import 'normalize'
 
-$footerHeight: 124px
+@mixin clearfix
+  &:after
+    content: ""
+    display: table
+    clear: both
+
+
+$footerHeight: 164px
 
 div
   -webkit-box-sizing: border-box /* Safari/Chrome, other WebKit */
@@ -26,6 +33,11 @@ a
 #main
   width: 1000px
   margin: 0 auto
+  position: absolute
+  top: 0
+  left: 0
+  right: 0
+  bottom: $footerHeight
 
   #header
     width: 1000px
@@ -103,8 +115,10 @@ a
     padding: 8px 0 0 14px
 
   #contentWrapper
+    @include clearfix
     float: left
     width: 1000px
+    padding-bottom: $footerHeight
     background: url('../images/bg.jpg') repeat-y
 
     #subnav
@@ -132,20 +146,6 @@ a
       text-align: justify
       line-height: 21px
 
-      h1
-        font-size: 14px
-        margin: 0 0 5px
-
-      blockquote
-        margin: 0 0 10px
-
-      a
-        font-weight: bold
-        color: #545454
-
-      a:hover
-        color: #2d8e58
-
     #recent
       float: left
       width: 280px
@@ -159,10 +159,31 @@ a
       img
         display: block
 
+.text
+
+  h1
+    font-size: 14px
+    margin: 0 0 5px
+
+  blockquote
+    margin: 0 0 10px
+    font-style: italic
+
+  a
+    font-weight: bold
+    color: #545454
+
+  a:hover
+    color: #2d8e58
+
 #footer
-  float: left
+  position: fixed
   width: 1000px
   height: $footerHeight
+  left: 50%
+  bottom: 0
+  margin-left: -500px
+  background: #000
 
   #gallery
     float: left
