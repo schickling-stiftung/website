@@ -7,6 +7,7 @@ images:
    file: g-baumdeslebens.jpg
  - link: 3
    file: g-inselloewe.jpg
+thought: /werke/david/
 ---
 
 # Der Förderkreis der Erich-Schickling-Stiftung e.V.

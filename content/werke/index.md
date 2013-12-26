@@ -1,5 +1,8 @@
 ---
 title: Startseite
+subnav:
+  - text: Kirchen
+    link: /werke/kirchen/
 ---
 
 # Kleine Auswahl seiner wichtigsten öffentlichen Arbeiten
