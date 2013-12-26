@@ -2,6 +2,7 @@
 # before nanoc starts compiling.
 
 require "awesome_print"
+include Nanoc::Helpers::Rendering
 
 def header_path (item)
     path = item.path

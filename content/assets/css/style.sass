@@ -75,8 +75,10 @@ a
     width: 720px
     height: 34px
     background: #d2d6dd
+    position: relative
 
     ul
+      float: left
       margin: 8px 0
       padding: 0
     
@@ -91,6 +93,16 @@ a
 
       li:first-child
         padding-left: 19px
+
+    ul#first
+      position: absolute
+      top: 0
+      left: 0
+
+    ul#second
+      position: absolute
+      top: 0
+      left: 101px
 
   #recentHead
     float: left
