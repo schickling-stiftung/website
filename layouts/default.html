@@ -45,9 +45,11 @@
             <% item[:images].each do |image| %><a href="<%= image[:link] %>"><img src="<%= image[:file] %>" /></a><% end %>
             <% end %>
         </div>
+        <% if item[:thought] %>
         <div id="footerNote">
-            Bildgedanke
+            <a href="<%= item[:thought] %>">Bildgedanke</a>
         </div>
+        <% end %>
     </div>
 </div> 
 </body>
