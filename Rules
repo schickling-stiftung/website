@@ -31,11 +31,15 @@ compile '*' do
         short_filename = item[:filename].split('/').last
         if short_filename.include? "g-"
             filter :resize, height: 120
+        elsif short_filename == 'image.jpg'
+            filter :resize, width: 600
         end
     end
 
     unless item.binary?
-        layout 'default'
+        item_layout = item[:layout] || 'default'
+        puts item_layout
+        layout item_layout
     end
 end
 

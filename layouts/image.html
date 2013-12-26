@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title><%= @item[:title] %> - Schickling Stiftung</title>
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<div id="main">
+    <div id="header">
+        <div id="headerImage">
+        </div>
+        <div id="logoWrapper">
+            <div id="logo"></div>
+            <div id="logoTitle">Begegnung von Kunst und Religion</div>
+        </div>
+    </div>
+    <div id="nav">
+        <ul>
+            <li><a class="<% if item.identifier == '/' %>active<% end %>" href="/">Startseite</a></li>
+            <li><a class="<% if item.identifier == '/erich-schickling/' %>active<% end %>" href="/erich-schickling">Erich Schickling</a></li>
+            <li><a class="<% if item.identifier == '/werke/' %>active<% end %>" href="/werke">Werke</a></li>
+            <li><a class="<% if item.identifier == '/foerderkreis/' %>active<% end %>" href="/foerderkreis">F&#246;rderkreis</a></li>
+            <li><a class="<% if item.identifier == '/veranstaltungen/' %>active<% end %>" href="/veranstaltungen">Veranstaltungen</a></li>
+            <li><a class="<% if item.identifier == '/kontakt/' %>active<% end %>" href="/kontakt">Kontakt</a></li>
+        </ul>
+    </div>
+    <div id="recentHead">
+        Aktuelles
+    </div>
+    <div id="contentWrapper" style="z-index: 100">
+        <div id="subnav">
+            <ul>
+                <% if item[:subnav] %>
+                <% item[:subnav].each do |el| %>
+                <li><a class="<% if item.identifier == el[:link] %>active<% end %>" href="<%= el[:link] %>"><%= el[:text] %></a></li>
+                <% end %>
+                <% end %>
+            </ul>
+        </div>
+        <div id="imageContent">
+            <img src="image.jpg" />
+        </div>
+        <div id="recent">
+            <% unless item.identifier == '/aktuelles/' %>
+            <%= items['/aktuelles/'].compiled_content %>
+            <% end %>
+        </div>
+    </div>
+    <div id="imageFooter" style="z-index: 99">
+        <div id="imageTitle">
+            <%= item[:title] %>
+        </div>
+        <div id="imageText">
+            <%= yield %>
+        </div>
+        <div id="footerNote">
+            Bildgedanke
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -27,6 +27,8 @@ class ImageResizeFilter < Nanoc::Filter
     type :binary
 
     def run(filename, params = {})
-        system("convert #{filename} -resize x#{params[:height]} #{output_filename}")
+        width = params[:width] || ''
+        height = params[:height] || ''
+        system("convert #{filename} -resize #{width}x#{height} #{output_filename}")
     end
 end
