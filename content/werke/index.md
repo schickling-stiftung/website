@@ -5,7 +5,7 @@ title: Startseite
 # Kleine Auswahl seiner wichtigsten öffentlichen Arbeiten
  
 **1958** Saal a.d.Donau: "Pantokrator"-Keramikrelief, Glasrosette und Kreuzweg (Architekt Naumann)  
-1964 Pottenstetten (Oberpfalz): Altarkreuz, Kreuzweg, Ägidius (Architekt Spitzner)  
+1964 [Pottenstetten](/werke/pottenstetten/) (Oberpfalz): Altarkreuz, Kreuzweg, Ägidius (Architekt Spitzner)  
 Grönenbach: Schulhaus-Giebel "Geschichtsbilderbogen"
 1966 Memmingerberg: Altarkreuz St.Ambrosius  
 1967 Regensburg: Glasfenstergiebel St.Konrad  
