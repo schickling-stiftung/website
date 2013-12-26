@@ -1,7 +1,7 @@
 ---
 title: Startseite
 images:
-  - link: /erich-schickling/
+  - link: /werke/david/
     file: g-david.jpg
   - link: 2
     file: g-turm.jpg
