@@ -7,6 +7,8 @@ images:
     file: g-erich.jpg
   - link: 3
     file: g-orpheuseurydike.jpg
+  - link: 4
+    file: g-leo.jpg
 subnav:
   - text: Der Künstler
     link: /erich-schickling/
