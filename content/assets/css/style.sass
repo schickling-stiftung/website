@@ -7,15 +7,20 @@
     clear: both
 
 
-$footerHeight: 128px
+$footerHeight: 124px
 
 div
   -webkit-box-sizing: border-box /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box    /* Firefox, other Gecko */
   box-sizing: border-box
 
+html, body
+  background: #000
+
+p
+  margin: 0
+
 body
-  background: #fff
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif 
   font-weight: 300
   font-size: 13px
@@ -55,13 +60,14 @@ a
         width: 118px
         height: 134px
         top: 36px
-        right: 24px
+        right: 0px
         background: url('../images/logo.jpg')
 
       #logoTitle
         position: absolute
         bottom: 20px
-        right: 24px
+        letter-spacing: 1.6pt
+        right: 0px
         color: #fff
 
   #nav
@@ -83,11 +89,15 @@ a
         a.active
           font-weight: bold
 
+      li:first-child
+        padding-left: 19px
+
   #recentHead
     float: left
     width: 280px
     height: 34px
     font-weight: bold
+    font-size: 14px
     background: #b3b6bc
     padding: 8px 0 0 14px
 
@@ -102,10 +112,10 @@ a
       float: left
       width: 120px
       min-height: 300px
-      padding: 18px
+      padding: 16px 18px
 
       ul
-        margin: 12px 0
+        margin: 0
         padding: 0
 
         li
@@ -121,17 +131,22 @@ a
       min-height: 300px
       padding: 16px 20px 16px 0
       text-align: justify
-      line-height: 19px
+      line-height: 21px
 
       h1
-        font-size: 14pt
-        font-weight: normal
-
-      h2
-        font-size: 12pt
+        font-size: 14px
+        margin: 0 0 5px
 
       blockquote
-        margin: 0
+        margin: 0 0 10px
+        font-style: italic
+
+      a
+        font-weight: bold
+        color: #545454
+
+      a:hover
+        color: #2d8e58
 
     #recent
       float: left
@@ -160,7 +175,7 @@ a
 
     a img
       height: 120px
-      margin: 4px 8px 4px 0
+      margin: 2px 8px 2px 0
 
     a:last-child img
       margin-right: 0
@@ -176,17 +191,19 @@ a
   background: #000
   width: 1000px
   float: left
-  margin-top: -200px
+  padding-bottom: 30px
 
   #imageTitle
     color: #fff
     float: left
     width: 120px
-    padding: 60px 18px
+    font-weight: bold
+    padding: 12px 18px
 
   #imageText
     float: left
     color: #fff
     width: 600px
-    margin: 80px 0 20px
+    padding: 32px 0 0
+    line-height: 21px
 

@@ -2,16 +2,16 @@
 title: Startseite
 ---
 
-Kleine Auswahl seiner wichtigsten öffentlichen Arbeiten:
+# Kleine Auswahl seiner wichtigsten öffentlichen Arbeiten
  
-1958 Saal a.d.Donau: "Pantokrator"-Keramikrelief, Glasrosette und Kreuzweg (Architekt Naumann)
-1964 Pottenstetten (Oberpfalz): Altarkreuz, Kreuzweg, Ägidius (Architekt Spitzner)
+**1958** Saal a.d.Donau: "Pantokrator"-Keramikrelief, Glasrosette und Kreuzweg (Architekt Naumann)  
+1964 Pottenstetten (Oberpfalz): Altarkreuz, Kreuzweg, Ägidius (Architekt Spitzner)  
 Grönenbach: Schulhaus-Giebel "Geschichtsbilderbogen"
-1966 Memmingerberg: Altarkreuz St.Ambrosius
-1967 Regensburg: Glasfenstergiebel St.Konrad
-1973 Rio de Janeiro: Bonifatius-Wandbild
-1976-80 Regensburg-Königswiesen St.Paul: Altarrückwand und Glasfenster
-1977-81 St.Peter-Ording: Glasfenster und Altarwand in St.Ulrich
+1966 Memmingerberg: Altarkreuz St.Ambrosius  
+1967 Regensburg: Glasfenstergiebel St.Konrad  
+1973 Rio de Janeiro: Bonifatius-Wandbild  
+1976-80 Regensburg-Königswiesen St.Paul: Altarrückwand und Glasfenster  
+1977-81 St.Peter-Ording: Glasfenster und Altarwand in St.Ulrich  
 1980 Deggendorf Grabeskirche: Glasfenster
 1983 Schweinfurt: Altarkreuz in Mosaik und Hinterglas für St-Peter-und-Paul
 1984 Mindelheim: Eingangshalle der Berufsschule

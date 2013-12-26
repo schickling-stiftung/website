@@ -9,7 +9,7 @@ images:
    file: g-inselloewe.jpg
 ---
 
-### Der Förderkreis der Erich-Schickling-Stiftung e.V.
+# Der Förderkreis der Erich-Schickling-Stiftung e.V.
  
 Um die Erich-Schickling-Stiftung als Ort der Kunst und der kulturellen und religiösen Bildung und Begegnung zu erhalten und weiterhin zugänglich zu machen, haben sich namhafte Persönlichkeiten aus Kunst, Kultur und Politik 1998 zum "Förderkreis der Erich-Schickling-Stiftung e.V." zusammengeschlossen. Im Schönen sich dem Göttlichen Schöpfungsgeheimnis zu nähern, war immer Erich Schicklings grösste Sehnsucht. In diesem Sinne hat er mit seiner Frau immer ein Haus der offenen Tür für Freunde und Besucher geführt. Die Veranstaltungen des Förderkreises und der Stiftung tragen diese Tradition weiter, unterstützt durch die ehrenamtlich tätigen Künstler und Referenten. Der Förderkreis dient allein den Interessen der Erich-Schickling-Stiftung und unterstützt deren Aufgaben finanziell und ideell. Dazu gehören neben Vorträgen, Konzerten, Lesungen, Seminaren auch die Herausgabe von Dokumentationen und Veröffentlichungen der Bilder und Texte.
 
