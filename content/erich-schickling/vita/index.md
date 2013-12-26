@@ -2,13 +2,13 @@
 title: Vita
 images:
   - link: http://www.google.com
-    file: g-gruenegünzlandschaft.jpg
+    file: g-erichostermorgen.jpg
   - link: 2
-    file: g-erich.jpg
+    file: g-kreuzigung.jpg
   - link: 3
-    file: g-orpheuseurydike.jpg
+    file: g-meditationsraum.jpg
   - link: 4
-    file: g-leo.jpg
+    file: g-benedikt.jpg
 subnav:
   - text: Der Künstler
     link: /erich-schickling/

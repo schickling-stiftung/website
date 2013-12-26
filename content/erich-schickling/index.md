@@ -2,13 +2,13 @@
 title: Erich Schickling
 images:
   - link: http://www.google.com
-    file: g-erichostermorgen.jpg
+    file: g-grueneguenzlandschaft.jpg
   - link: 2
-    file: g-kreuzigung.jpg
+    file: g-erich.jpg
   - link: 3
-    file: g-meditationsraum.jpg
+    file: g-orpheuseurydike.jpg
   - link: 4
-    file: g-benedikt.jpg
+    file: g-leo.jpg
 subnav:
   - text: Der Künstler
     link: /erich-schickling/
