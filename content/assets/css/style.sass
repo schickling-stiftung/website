@@ -1,12 +1,5 @@
 @import 'normalize'
 
-@mixin clearfix
-  &:after
-    content: ""
-    display: table
-    clear: both
-
-
 $footerHeight: 124px
 
 div
@@ -18,12 +11,13 @@ html, body
   background: #000
 
 p
-  margin: 0
+  margin: 0 0 10px
 
 body
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif 
   font-weight: 300
   font-size: 13px
+  letter-spacing: 0.5pt
 
 a
   text-decoration: none
@@ -32,11 +26,6 @@ a
 #main
   width: 1000px
   margin: 0 auto
-  position: absolute
-  top: 0
-  left: 0
-  right: 0
-  bottom: $footerHeight
 
   #header
     width: 1000px
@@ -114,10 +103,8 @@ a
     padding: 8px 0 0 14px
 
   #contentWrapper
-    @include clearfix
     float: left
     width: 1000px
-    padding-bottom: $footerHeight
     background: url('../images/bg.jpg') repeat-y
 
     #subnav
@@ -151,7 +138,6 @@ a
 
       blockquote
         margin: 0 0 10px
-        font-style: italic
 
       a
         font-weight: bold
@@ -169,16 +155,14 @@ a
     #imageContent
       float: left
       width: 600px
-      z-index: 100
+
+      img
+        display: block
 
 #footer
-  position: fixed
+  float: left
   width: 1000px
   height: $footerHeight
-  left: 50%
-  bottom: 0
-  margin-left: -500px
-  background: #000
 
   #gallery
     float: left

@@ -38,7 +38,6 @@ compile '*' do
 
     unless item.binary?
         item_layout = item[:layout] || 'default'
-        puts item_layout
         layout item_layout
     end
 end

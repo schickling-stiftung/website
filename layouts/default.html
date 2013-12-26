@@ -39,16 +39,16 @@
             <% end %>
         </div>
     </div>
+    <div id="footer">
+        <div id="gallery">
+            <% if item[:images] %>
+            <% item[:images].each do |image| %><a href="<%= image[:link] %>"><img src="<%= image[:file] %>" /></a><% end %>
+            <% end %>
+        </div>
+        <div id="footerNote">
+            Bildgedanke
+        </div>
+    </div>
 </div> 
-<div id="footer">
-    <div id="gallery">
-        <% if item[:images] %>
-        <% item[:images].each do |image| %><a href="<%= image[:link] %>"><img src="<%= image[:file] %>" /></a><% end %>
-        <% end %>
-    </div>
-    <div id="footerNote">
-        Bildgedanke
-    </div>
-</div>
 </body>
 </html>
