@@ -9,6 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: 4
     file: g-leo.jpg
+thought: /werke/pottenstetten/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/

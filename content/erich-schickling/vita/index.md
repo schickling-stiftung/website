@@ -2,9 +2,9 @@
 title: Vita
 images:
   - link: http://www.google.com
-    file: g-erichostermorgen.jpg
+    file: 
   - link: 2
-    file: g-kreuzigung.jpg
+    file: g-erichostermorgen.jpg
   - link: 3
     file: g-meditationsraum.jpg
   - link: 4
