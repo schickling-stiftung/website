@@ -2,13 +2,13 @@
 title: Vita
 images:
   - link: http://www.google.com
-    file: 
+    file: g-franziskus.jpg
   - link: 2
-    file: g-erichostermorgen.jpg
+    file: 
   - link: 3
-    file: g-meditationsraum.jpg
+    file: g-erichostermorgen.jpg
   - link: 4
-    file: g-benedikt.jpg
+    file: g-meditationsraum.jpg
 subnav:
   - text: Der Künstler
     link: /erich-schickling/
