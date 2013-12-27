@@ -1,10 +1,8 @@
 ---
 title: Vita
 images:
-  - link: http://www.google.com
-    file: g-franziskus.jpg
   - link: 2
-    file: 
+    file: g-europa.jpg
   - link: 3
     file: g-erichostermorgen.jpg
   - link: 4
