@@ -23,6 +23,10 @@ def header_path (item)
     path + 'header.jpg'
 end
 
+def active_path? (item, path)
+    item.identifier.include? path
+end
+
 class ImageResizeFilter < Nanoc::Filter
     identifier :resize
     type :binary

@@ -3,10 +3,10 @@
         <li><a class="<% if item.identifier == '/' %>active<% end %>" href="/">Startseite</a></li>
     </ul>
     <ul id="second">
-        <li><a class="<% if item.identifier == '/erich-schickling/' %>active<% end %>" href="/erich-schickling">Erich Schickling</a></li>
-        <li><a class="<% if item.identifier == '/werke/' %>active<% end %>" href="/werke">Werke</a></li>
-        <li><a class="<% if item.identifier == '/foerderkreis/' %>active<% end %>" href="/foerderkreis">F&#246;rderkreis</a></li>
-        <li><a class="<% if item.identifier == '/veranstaltungen/' %>active<% end %>" href="/veranstaltungen">Veranstaltungen</a></li>
-        <li><a class="<% if item.identifier == '/kontakt/' %>active<% end %>" href="/kontakt">Kontakt</a></li>
+        <li><a class="<% if active_path?(item, '/erich-schickling/') %>active<% end %>" href="/erich-schickling">Erich Schickling</a></li>
+        <li><a class="<% if active_path?(item, '/werke/') %>active<% end %>" href="/werke">Werke</a></li>
+        <li><a class="<% if active_path?(item, '/foerderkreis/') %>active<% end %>" href="/foerderkreis">F&#246;rderkreis</a></li>
+        <li><a class="<% if active_path?(item, '/veranstaltungen/') %>active<% end %>" href="/veranstaltungen">Veranstaltungen</a></li>
+        <li><a class="<% if active_path?(item, '/kontakt/') %>active<% end %>" href="/kontakt">Kontakt</a></li>
     </ul>
 </div>
