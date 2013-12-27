@@ -8,13 +8,10 @@ subnav:
     link: /veranstaltungen/2013/
 ---
 
-Sonntag, 3. März, 15 Uhr (im beheizbaren Innenraum) Winterpodium junger Künstler Katrin Lösch, Querflöte (Innsbruck / Karlsruhe)
-Melanie Bähr, Klavier (Karlsruhe / Frankfurt)
+Sonntag, 3. März, 15 Uhr Winterpodium junger Künstler mit Katrin Lösch, Querflöte (Innsbruck / Karlsruhe) und Melanie Bähr, Klavier (Karlsruhe / Frankfurt)
 
 Samstag, 20. April, 15 Uhr Gedenkveranstaltung:
- 
 „Schöpfung und Mythos im Werk von Erich Schickling“
-
 Festvortrag: Dr. Thomas Goppel, Staatsminister a.D., MdL, Präsident des Bayer. Musikrates Musikalische Gestaltung:
 Prof. Kaya Han, Klavier
 Prof. Isao Nakamura, Schlagwerk
