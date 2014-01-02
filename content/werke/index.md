@@ -31,3 +31,5 @@ Regensburg: Franziskus-Glasfenster im Elisabethinum
 1990 Mindelheim Kreiskrankenhaus: Wandbild "Herakles" in der Eingangshalle
 1991-93 Neunburg v.Wald Dekanatskirche: Glasfenster
 2001 Pondorf/Donau: Auferstehungsfenster in der Aussegnungshalle
+
+Eine umfassende Liste seiner Werke in Kirchen und Öffentlichem Raum kann bei der Erich-Schickling-Stiftung angefragt werden.

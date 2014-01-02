@@ -11,9 +11,10 @@ subnav:
     link: /werke/architektur/
 ---
 
-# Auswahl sakraler Kunst in Kirchen
+# Beispiele sakraler Kunst
  
-1964 Pottenstetten(Oberpfalz): Altarkreuz, Kreuzweg, Ägidius (Architekt Spitzner)  
+1961 [Altenstadt a.d. Waldnaab:](/werke/kirchen/altenstadt/) Glasfenster-Zyklen  
+1964 [Ägidius-Kirche Pottenstetten](/http://www.st-vitus.de/potindex.html/) (Oberpfalz): Altarkreuz, Kreuzweg  
 1966 Memmingerberg: Altarkreuz St.Ambrosius  
 1967 Regensburg: Glasfenstergiebel St.Konrad  
 1973 Rio de Janeiro: Bonifatius-Wandbild  
@@ -27,3 +28,6 @@ Regensburg: Franziskus-Glasfenster im Elisabethinum
 1988-93 Pondorf/Donau: Glasfensterzyklus in der Dekanatskirche  
 1991-93 Neunburg v.Wald Dekanatskirche: Glasfenster  
 2001 Pondorf/Donau: Auferstehungsfenster in der Aussegnungshalle
+
+Eine umfassende Liste der Orte mit Kirchen, in denen Werke von Erich Schickling zu finden sind, kann bei der Erich-Schickling-Stiftung angefragt werden.
+
