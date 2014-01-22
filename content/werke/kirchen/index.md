@@ -1,5 +1,13 @@
 ---
 title: Kirchen
+images:
+ - link: http://www.google.com
+   file: g-engel.jpg
+ - link: 2
+   file: g-betonglasfenster.jpg
+ - link: 3
+   file: g-aaron.jpg
+thought: /bildgedanken/januar-2014/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

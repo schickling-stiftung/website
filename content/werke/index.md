@@ -1,5 +1,13 @@
 ---
 title: Werke
+images:
+ - link: http://www.google.com
+   file: g-engel.jpg
+ - link: 2
+   file: g-betonglasfenster.jpg
+ - link: 3
+   file: g-aaron.jpg
+thought: /bildgedanken/januar-2014/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/
@@ -24,12 +32,11 @@ subnav:
 1980 Deggendorf Grabeskirche: Glasfenster  
 1983 [Schweinfurt](/werke/kirchen/schweinfurt/): Altarkreuz in Mosaik und Hinterglas für St-Peter-und-Paul  
 1984 Mindelheim: Eingangshalle der Berufsschule  
-1985 Diesenbach: Hinterglas-Kreuzweg (Architekt Alexander von Branka)
-1987 [Ottobeuren. Krypta der Basilika](/werke/kirchen/krypta-ott/): Bruder-Klaus-Meditationsfenster
-Regensburg: Franziskus-Glasfenster im Elisabethinum
-1988-93 Pondorf/Donau: Glasfensterzyklus in der Dekanatskirche
-1990 Mindelheim Kreiskrankenhaus: Wandbild "Herakles" in der Eingangshalle
-1991-93 Neunburg v.Wald Dekanatskirche: Glasfenster
+1985 Diesenbach: Hinterglas-Kreuzweg (Architekt Alexander von Branka)  
+1987 [Ottobeuren. Krypta der Basilika](/werke/kirchen/krypta-ott/): Bruder-Klaus-Meditationsfenster  
+Regensburg: Franziskus-Glasfenster im Elisabethinum  
+1988-93 Pondorf/Donau: Glasfensterzyklus in der Dekanatskirche  
+1991-93 Neunburg v.Wald Dekanatskirche: Glasfenster  
 2001 Pondorf/Donau: Auferstehungsfenster in der Aussegnungshalle
 
 Eine umfassende Liste seiner Werke in Kirchen und Öffentlichem Raum kann bei der Erich-Schickling-Stiftung angefragt werden.
