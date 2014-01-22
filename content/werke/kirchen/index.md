@@ -16,12 +16,12 @@ subnav:
 1961 [Altenstadt a.d. Waldnaab:](/werke/kirchen/altenstadt/) Glasfenster-Zyklen  
 1964 [Ägidius-Kirche Pottenstetten](/http://www.st-vitus.de/potindex.html/) (Oberpfalz): Altarkreuz, Kreuzweg  
 1966 Memmingerberg: Altarkreuz St.Ambrosius  
-1967 Regensburg: Glasfenstergiebel St.Konrad  
+1967 [Regensburg St.Konrad](/werke/kirchen/regensburg-st-konrad/): Glasfenstergiebel  
 1973 Rio de Janeiro: Bonifatius-Wandbild  
 1976-80 Regensburg-Königswiesen St.Paul: Altarrückwand und Glasfenster  
 1977-81 [St.Peter-Ording](/werke/kirchen/st-peter-ording/): Glasfenster und Altarwand in St.Ulrich  
 1980 Deggendorf Grabeskirche: Glasfenster  
-1983 Schweinfurt: Altarkreuz in Mosaik und Hinterglas für St-Peter-und-Paul  
+1983 [Schweinfurt](/werke/kirchen/schweinfurt/): Altarkreuz in Mosaik und Hinterglas für St-Peter-und-Paul  
 1985 Diesenbach: Hinterglas-Kreuzweg (Architekt Alexander von Branka)  
 1987 [Ottobeuren. Krypta der Basilika](/werke/kirchen/krypta-ott/): Bruder-Klaus-Meditationsfenster   
 Regensburg: Franziskus-Glasfenster im Elisabethinum  

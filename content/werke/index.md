@@ -13,17 +13,17 @@ subnav:
 
 # Beispiele von Arbeiten in Kirchen und im öffentlichen Raum
  
-1958 Saal a.d.Donau: "Pantokrator"-Keramikrelief, Glasrosette und Kreuzweg (Architekt Naumann)  
-1964 Pottenstetten (Oberpfalz): Altarkreuz, Kreuzweg, Ägidius (Architekt Spitzner)  
-Grönenbach: Schulhaus-Giebel "Geschichtsbilderbogen"
+1958 Saal a.d.Donau: "Pantokrator"-Keramikrelief, Glasrosette und Kreuzweg  
+1961 Grönenbach: Schulhaus-Giebel "Geschichtsbilderbogen"    
+1964 Pottenstetten (Oberpfalz): Altarkreuz, Kreuzweg, Ägidius  
 1966 Memmingerberg: Altarkreuz St.Ambrosius  
-1967 Regensburg: Glasfenstergiebel St.Konrad  
+1967 [Regensburg St.Konrad](/werke/kirchen/regensburg-st-konrad/)  
 1973 Rio de Janeiro: Bonifatius-Wandbild  
 1976-80 Regensburg-Königswiesen St.Paul: Altarrückwand und Glasfenster  
 1977-81 [St.Peter-Ording](/werke/kirchen/st-peter-ording/): Glasfenster und Altarwand in St.Ulrich  
-1980 Deggendorf Grabeskirche: Glasfenster
-1983 Schweinfurt: Altarkreuz in Mosaik und Hinterglas für St-Peter-und-Paul
-1984 Mindelheim: Eingangshalle der Berufsschule
+1980 Deggendorf Grabeskirche: Glasfenster  
+1983 [Schweinfurt](/werke/kirchen/schweinfurt/): Altarkreuz in Mosaik und Hinterglas für St-Peter-und-Paul  
+1984 Mindelheim: Eingangshalle der Berufsschule  
 1985 Diesenbach: Hinterglas-Kreuzweg (Architekt Alexander von Branka)
 1987 [Ottobeuren. Krypta der Basilika](/werke/kirchen/krypta-ott/): Bruder-Klaus-Meditationsfenster
 Regensburg: Franziskus-Glasfenster im Elisabethinum
