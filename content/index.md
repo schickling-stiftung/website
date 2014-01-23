@@ -2,7 +2,7 @@
 title: Startseite
 images:
   - link: /werke/david/
-    file: g-david.jpg
+    file: g-heimsuchung.jpg
   - link: #
     file: g-turm.jpg
   - link: #
