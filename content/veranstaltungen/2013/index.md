@@ -4,8 +4,8 @@ images:
   - link: /erich-schickling/
     file: riehm.jpg
 subnav:
-  - text: 2013
-    link: /veranstaltungen/2013/
+  - text: zurück
+    link: /veranstaltungen/
 ---
 
 Sonntag, 3. März, 15 Uhr Winterpodium junger Künstler mit Katrin Lösch, Querflöte (Innsbruck / Karlsruhe) und Melanie Bähr, Klavier (Karlsruhe / Frankfurt)
