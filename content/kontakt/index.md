@@ -1,7 +1,6 @@
 ---
 title: Kontakt
 ---
-### Die Erich-Schickling-Stiftung im Unterallgäu
 
 Erich-Schickling-Stiftung
 Eggisried 29 ½
