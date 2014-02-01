@@ -13,7 +13,7 @@ subnav:
 
 #Auswahl von Werken im Öffentlichen Raum
    
-1964 Grönenbach: Schulhaus-Giebel "Geschichtsbilderbogen" 
+1964 Grönenbach: Schulhaus-Giebel "Geschichtsbilderbogen"   
 1973 Rio de Janeiro: Bonifatius-Wandbild   
 1984 Mindelheim: Eingangshalle der Berufsschule
 

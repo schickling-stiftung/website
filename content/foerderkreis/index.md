@@ -8,6 +8,9 @@ images:
  - link: 3
    file: g-konzertraum.jpg
 thought: /werke/david/
+subnav:
+  - text: Kataloge
+    link: /foerderkreis/kataloge/
 ---
 
 # Der Förderkreis der Erich-Schickling-Stiftung e.V.

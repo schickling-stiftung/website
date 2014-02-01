@@ -6,5 +6,6 @@ title: Aktuelles
 
 Eintritt 5 €, freier Eintritt für Kinder & Jugendliche sowie für Mitglieder des Förderkreises. Für Gruppen können auch andere Termine vereinbart werden.
 
-Veranstaltungen 2014
+[Veranstaltungen 2014](/veranstaltungen/2014/)  
+[Kataloge](/foerderkreis/kataloge/)
 
