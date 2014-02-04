@@ -1,7 +1,7 @@
 ---
 title: Startseite
 images:
-  - link: /werke/david/
+  - link: #
     file: g-heimsuchung.jpg
   - link: #
     file: g-turm.jpg
@@ -16,5 +16,3 @@ Die Erich-Schickling-Stiftung in Eggisried nahe Ottobeuren hat ihre Mitte in den
 
 
 > „ein Gott ist der Mensch, wenn er träumt, ein Bettler, wenn er nachdenkt“ - Hölderlin
-
-Die Erich-Schickling-Stiftung ist ein stiller gewachsener Ort der Begegnung von Kunst und Religion. In Führungen und Bildbetrachtungen, in Konzerten und Lesungen ist Raum und Zeit zu solchem Träumen: im Schauen und im Hören.
