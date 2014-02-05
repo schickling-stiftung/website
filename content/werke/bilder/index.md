@@ -7,8 +7,8 @@ images:
    file: g-kreuzigung.jpg
  - link: #
    file: g-gruene-guenzlandschaft.jpg
- - link: #
-   file: g-mose.jpg
+ - link: 4
+   file: g-europa-und-stier.jpg
 thought: /bildgedanken/januar-2014/
 subnav:
   - text: Kirchen
@@ -21,5 +21,11 @@ subnav:
     link: /werke/architektur/
 ---
 
+[Benedikt, Vater des Abendlandes](/werke/bilder/benedikt/)  
+[Kreuzigung](/werke/bilder/kreuzigung/)   
+[Grüne Günzlandschaft](/werke/bilder/gruene-guenzlandschaft/)    
+[Europa mit dem Stier](/werke/bilder/europa-und-stier/)    
+[Allgäuer Höfe](/werke/bilder/allgaeuer-hoefe/)  
+[Mose](/werke/bilder/mose/)
 
  
