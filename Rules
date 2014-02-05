@@ -17,7 +17,7 @@ compile '/assets/css/*/' do
     filter :sass
 end
 
-compile %r{^/CNAME} do
+compile 'CNAME' do
   # don’t CNAME
 end
 
@@ -50,7 +50,7 @@ route '/assets/css/*/' do
     item.identifier.chop + '.css'
 end
 
-route %r{CNAME} do
+route 'CNAME' do
   item.identifier.chop
 end
 
