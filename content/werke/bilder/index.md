@@ -2,7 +2,7 @@
 title: Bilder
 images:
  - link: #
-   file: g-benedikt.jpg
+   file: 
  - link: #
    file: g-kreuzigung.jpg
  - link: #
