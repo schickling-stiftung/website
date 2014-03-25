@@ -5,9 +5,9 @@ images:
    file: g-engel.jpg
  - link: 2
    file: g-betonglasfenster.jpg
- - link: 3
+ - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/januar-2014/
+thought: /bildgedanken/benedikt-2014/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

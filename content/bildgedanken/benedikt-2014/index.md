@@ -4,4 +4,4 @@ layout: image
 ---
 
 # Hl. Benedikt, Vater des Abendlandes
-Hinterglasbild
+1250 Jahre Benediktinerabtei Ottobeuren

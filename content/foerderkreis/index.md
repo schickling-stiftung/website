@@ -7,7 +7,7 @@ images:
    file: g-glockenturm.jpg
  - link: 3
    file: g-konzertraum.jpg
-thought: /werke/david/
+thought: /bildgedanken/benedikt-2014/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

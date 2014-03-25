@@ -7,7 +7,7 @@ images:
     file: g-jussow.jpg
   - link: 3
     file: g-ena-trommeltanz.jpg
-
+thought: /bildgedanken/benedikt-2014/
 subnav:
   - text: 2013
     link: /veranstaltungen/2013/

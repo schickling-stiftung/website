@@ -27,7 +27,7 @@ subnav:
 1967 [Regensburg St.Konrad](/werke/kirchen/regensburg-st-konrad/): Glasfenstergiebel  
 1973 Rio de Janeiro: Bonifatius-Wandbild  
 1976-80 Regensburg-Königswiesen St.Paul: Altarrückwand und Glasfenster  
-1977-81 [St.Peter-Ording](/werke/kirchen/st-peter-ording/): Glasfenster und Altarwand in St.Ulrich  
+1977-81 [St.Peter-Ording](/werke/kirchen/st-peter-ording/): [Glasfenster und Altarwand in St.Ulrich](/http://www.nord-katholiken.de/St-Peter-Ording-St-Ulrich.html/)  
 1980 Deggendorf Grabeskirche: Glasfenster  
 1983 [Schweinfurt](/werke/kirchen/schweinfurt/): Altarkreuz in Mosaik und Hinterglas für St-Peter-und-Paul  
 1985 Diesenbach: Hinterglas-Kreuzweg (Architekt Alexander von Branka)  
