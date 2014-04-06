@@ -1,7 +1,7 @@
 ---
 title: Swiatkowski
 images:
-  - link: /veranstaltungen/2014/swiatkowski/chin.floete/
+  - link: /veranstaltungen/2014/swiatkowski/
     file: g-chin.floetenspieler.chan.jpg
   - link: /veranstaltungen/2014/
     file: g-eurydike.jpg

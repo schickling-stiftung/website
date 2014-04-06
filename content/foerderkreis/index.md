@@ -7,7 +7,7 @@ images:
    file: g-glockenturm.jpg
  - link: 3
    file: g-konzertraum.jpg
-thought: /bildgedanken/benedikt-2014/
+thought: /bildgedanken/palmsonntag2014/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

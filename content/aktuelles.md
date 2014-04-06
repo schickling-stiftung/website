@@ -12,5 +12,5 @@ title: Aktuelles
 
 
 
-**Der Pottenstetter Kreuzweg**  
+[**Der Pottenstetter Kreuzweg**](/veranstaltungen/2014/kreuzweg/)  
 am Samstag, 12.April 19 Uhr

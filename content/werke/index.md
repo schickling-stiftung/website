@@ -7,7 +7,7 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/benedikt-2014/
+thought: /bildgedanken/palmsonntag2014/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/
