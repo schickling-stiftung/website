@@ -1,14 +1,14 @@
 ---
 title: Bilder
 images:
+ - link: /werke/bilder/kreuzigung/
+   file: g-kreuzigung.jpg
+ - link: /werke/bilder/gruene-guenzlandschaft/
+   file: g-gruene-guenzlandschaft.jpg
+ - link: /werke/bilder/europa-und-stier/
+   file: g-europa-und-stier.jpg
  - link: #
    file: 
- - link: #
-   file: g-kreuzigung.jpg
- - link: #
-   file: g-gruene-guenzlandschaft.jpg
- - link: 4
-   file: g-europa-und-stier.jpg
 thought: /bildgedanken/januar-2014/
 subnav:
   - text: Kirchen

@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: 4
     file: g-leo.jpg
-thought: /bildgedanken/palmsonntag2014/
+thought: /bildgedanken/krypta-ott/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/

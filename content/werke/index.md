@@ -1,13 +1,13 @@
 ---
 title: Werke
 images:
- - link: http://www.google.com
+ - link: /werke/engel/
    file: g-engel.jpg
- - link: 2
+ - link: /werke/betonglasfenster/
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/palmsonntag2014/
+thought: /bildgedanken/krypta-ott/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

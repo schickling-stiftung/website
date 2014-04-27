@@ -7,7 +7,7 @@ images:
    file: g-glockenturm.jpg
  - link: 3
    file: g-konzertraum.jpg
-thought: /bildgedanken/palmsonntag2014/
+thought: /bildgedanken/krypta-ott/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

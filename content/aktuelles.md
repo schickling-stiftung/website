@@ -12,5 +12,7 @@ title: Aktuelles
 
 
 
-[**Der Pottenstetter Kreuzweg**](/veranstaltungen/2014/kreuzweg/)  
-am Samstag, 12.April 19 Uhr
+[**Gedenkveranstaltung**](/veranstaltungen/2014/gedenkfeier/)  
+anlässlich des 90.Geburtstages von Erich Schickling (1924-2012)  
+15 Jahre Erich-Schickling-Stiftung  
+**am Samstag, 3.Mai 2014 um 17 Uhr**
