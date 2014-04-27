@@ -23,13 +23,10 @@ Einladung zum Gedenkwochenende:
 **15 Jahre Erich-Schickling-Stiftung in Eggisried**
 
 
-Wir würden uns sehr freuen, wenn Sie mit uns feiern
+**Samstag, den 3. Mai um 17 Uhr** Gedenkveranstaltung in der Stiftung    
+Platzreservierung empfohlen! Tel. 08332-936424 info@schickling-stiftung.de
 
-am Samstag, den 3. Mai um 17 Uhr bei der Gedenkveranstaltung in der Stiftung  
-am Sonntag, den 4. Mai um 11 Uhr beim Gottesdienst in der Krypta der Basilika Ottobeuren
-
-
-Programm bei der Gedenkveranstaltung am Samstag:
+Programm:
 
 Begrüssung der Gäste durch den Vorsitzenden des Förderkreises der Erich-Schickling-Stiftung Dr. Hermann Haisch, Altlandrat  
 Franz Schubert: „Arpeggione“-Sonate für Violoncello und Klavier  
@@ -44,4 +41,7 @@ in der Übertragung für Cello und Klavier
  
 [Prof. David Grigorian, Violoncello; Prof. Ludmilla Lissovaja, Klavier](/veranstaltungen/2014/gedenkfeier/grigorian/) (München)
 
-Die Messe am Sonntag wird zelebriert von Abt Johannes Schaber OSB und Subprior Dr. Theodor Lutz OSB; musikalisch gestaltet von Hedwig Schöner, Gesang; Andreas Kellerer, Querflöte; Dr. Josef Miltschitzky, Orgel. Das Meditationsbild des Nikolaus von der Flüe war für Erich Schickling der Ausgangspunkt und die Inspirationsquelle, als er 1987 für die Friedenskrypta der Basilika das Glasfenster mit den Schöpfungsgeheimnissen schaffen durfte. 
+**Sonntag, den 4. Mai um 11 Uhr** Gottesdienst in der Krypta der Basilika Ottobeuren
+
+Die Messe wird zelebriert von Abt Johannes Schaber OSB und Subprior Dr. Theodor Lutz OSB; musikalisch gestaltet von Hedwig Schöner, Gesang; Andreas Kellerer, Querflöte; Dr. Josef Miltschitzky, Orgel.   
+Das Meditationsbild des Nikolaus von der Flüe war für Erich Schickling der Ausgangspunkt und die Inspirationsquelle, als er 1987 für die Friedenskrypta der Basilika das [Bruder-Klaus-Glasfenster](/Veranstaltungen/2014/krypta-ott/) mit den Schöpfungsgeheimnissen schaffen durfte. 
