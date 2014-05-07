@@ -8,12 +8,14 @@ title: Aktuelles
     
 [Kataloge](/foerderkreis/kataloge/)
 
+  
 
+  
+  
+**“Heimat“**  
+Klavier- und Kammermusikwerke von Béla Bartók  
+[**am Samstag, 17. Mai um 17 Uhr**](/veranstaltungen/2014/bartok/)
 
-
-
-[**Gedenkveranstaltung**](/veranstaltungen/2014/gedenkfeier/)  
-anlässlich des 90.Geburtstages von Erich Schickling (1924-2012)  
-15 Jahre Erich-Schickling-Stiftung  
-**am Samstag, 3.Mai 2014 um 17 Uhr**  
-Platzreservierung empfohlen!
+  
+**Offener Museumstag**  
+[**am Sonntag, 18. Mai, 9 - 18 Uhr**](/veranstaltungen/2014/museumstag/)
