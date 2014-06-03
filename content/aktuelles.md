@@ -9,13 +9,7 @@ title: Aktuelles
 [Kataloge](/foerderkreis/kataloge/)
 
   
-
-  
-  
-**“Heimat“**  
-Klavier- und Kammermusikwerke von Béla Bartók  
-[**am Samstag, 17. Mai um 17 Uhr**](/veranstaltungen/2014/bartok/)
-
-  
-**Offener Museumstag**  
-[**am Sonntag, 18. Mai, 9 - 18 Uhr**](/veranstaltungen/2014/museumstag/)
+**„Landschaft im Wort“**   
+Lyrik und Prosa mit [**Alois Sailer**](/veranstaltungen/2014/sailer/)   
+Musik mit [**Josef Bichlmair**](/veranstaltungen/2014/bichlmair/), Zither    
+am Pfingstmontag, 9. Juni um 16 Uhr
