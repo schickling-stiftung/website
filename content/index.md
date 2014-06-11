@@ -5,7 +5,7 @@ images:
     file: g-heimsuchung.jpg
   - link: #
     file: g-turm.jpg
-  - link: #
+  - link: /werke/sonnenskulptur/
     file: g-sonne.jpg
   - link: #
     file: g-loewenzahn.jpg

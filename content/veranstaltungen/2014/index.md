@@ -9,7 +9,7 @@ images:
     file: g-david.jpg
   - link: /veranstaltungen/2014/grube/
     file: g-grube.jpg
-  - link: veranstaltungen/2014/hopfenzitz/
+  - link: /veranstaltungen/2014/hopfenzitz/
     file: g-hopfenzitz.jpg
 thought: /bildgedanken/pfingsten2014/
 subnav:
@@ -28,7 +28,7 @@ Leitung: Prof. Dr. Johannes Hoyer
 **Sonntag, 18. Mai, 9 - 18 Uhr**
 [Offener Museumstag](/veranstaltungen/2014/museumstag/)  
 Führungen und Konzerte  
-Eintritt frei**Pfingstmontag, 9. Juni um 16 Uhr** [„Landschaft im Wort“](/veranstaltungen/2014/sailer/sailerplakat/)  Lyrik und Prosa mit [Alois Sailer](/veranstaltungen/2014/sailer/), dem Dichter aus dem Donauried    Musik auf der Zither mit [Josef Bichlmair](/veranstaltungen/2014/bichlmair/), dem Bildhauer und Musiker aus dem Unterallgäu**Sonntag, 6. Juli um 17 Uhr** ViolinSoloKonzert  Juwelen der Violinliteratur mit Prof. Michael Grube (Ecuador/ Überlingen)
+Eintritt frei**Pfingstmontag, 9. Juni um 16 Uhr** [„Landschaft im Wort“](/veranstaltungen/2014/sailer/sailerplakat/)  Lyrik und Prosa mit [Alois Sailer](/veranstaltungen/2014/sailer/), dem Dichter aus dem Donauried    Musik auf der Zither mit [Josef Bichlmair](/veranstaltungen/2014/bichlmair/), dem Bildhauer und Musiker aus dem Unterallgäu**Sonntag, 6. Juli um 17 Uhr** [ViolinSoloKonzert](/veranstaltungen/2014/grube/)   Juwelen der Violinliteratur mit Prof. Michael Grube (Ecuador/ Überlingen)
 
 **Samstag, 12. Juli um 18 Uhr**
 „Die Weise von Liebe und Tod des Cornets Christoph Rilke“ in der Vertonung von Viktor Ullmann (1898-1944 Auschwitz), komponiert 1944 in Theresienstadt  

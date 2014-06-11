@@ -1,9 +1,9 @@
 ---
 title: Veranstaltungen
 images:
-  - link: /erich-schickling/
+  - link: /veranstaltungen/schneider/
     file: g-schneiders.jpg
-  - link: 2
+  - link: /werke/sonnenskulptur/
     file: g-sonne.jpg
   - link: 3
     file: g-eggseminar.jpg
