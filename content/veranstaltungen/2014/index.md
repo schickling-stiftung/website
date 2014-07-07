@@ -1,10 +1,10 @@
 ---
 title: 2014
 images:
-  - link: /veranstaltungen/2014/sailer/
-    file: g-sailer.jpg
-  - link: /veranstaltungen/2014/bichlmair/
-    file: g-bichlmair.jpg
+  - link: /veranstaltungen/2014/rilke.ullmann/
+    file: g-verhoeven.jpg
+  - link: /veranstaltungen/2014/rilke.ullmann/
+    file: g-hoell.jpg
   - link: /veranstaltungen/2014/david/
     file: g-david.jpg
   - link: /veranstaltungen/2014/grube/
@@ -31,8 +31,9 @@ Führungen und Konzerte
 Eintritt frei**Pfingstmontag, 9. Juni um 16 Uhr** [„Landschaft im Wort“](/veranstaltungen/2014/sailer/sailerplakat/)  Lyrik und Prosa mit [Alois Sailer](/veranstaltungen/2014/sailer/), dem Dichter aus dem Donauried    Musik auf der Zither mit [Josef Bichlmair](/veranstaltungen/2014/bichlmair/), dem Bildhauer und Musiker aus dem Unterallgäu**Sonntag, 6. Juli um 17 Uhr** [ViolinSoloKonzert](/veranstaltungen/2014/grube/)   Juwelen der Violinliteratur mit Prof. Michael Grube (Ecuador/ Überlingen)
 
 **Samstag, 12. Juli um 18 Uhr**
-„Die Weise von Liebe und Tod des Cornets Christoph Rilke“ in der Vertonung von Viktor Ullmann (1898-1944 Auschwitz), komponiert 1944 in Theresienstadt  
-Elisabeth Verhoeven, Rezitation;   Prof. Hartmut Höll, Klavier  
+[„Die Weise von Liebe und Tod des Cornets Christoph Rilke“](/veranstaltungen/2014/rilke.ullmann/) in der Vertonung von Viktor Ullmann (1898-1944 Auschwitz), komponiert 1944 in Theresienstadt  
+Elisabeth Verhoeven, Rezitation     
+Prof. Hartmut Höll, Klavier 
 Lesung aus dem Buch „WortMusik“ von Hartmut Höll
 **Sonntag, 27. Juli 2014 17 Uhr** [“Wenn der Töne Zauber walten”](/veranstaltungen/2014/hopfenzitz/)  Sommerliches Konzert der Grossfamilie Hopfenzitz Teil 2  Ernste und heitere Lieder, Arien und Instrumentalstücke**Samstag, 6. September um 19 Uhr** „Sommerabend im Museum“  Lieder und Klavierwerke von Mendelssohn, Brahms, Mahler u.a.  mit Susanne Schlegel, Alt; Ulrike Meyer, Klavier**12. - 14. September** Eggisrieder Seminar für „Musik und Transzendenz“  (Gesamtprogramm des Seminares auf Anfrage!)**Freitag, 12. September um 18 Uhr** Konzert der Teilnehmer
 **Samstag, 13. September um 10 Uhr** Vortrag über „Fantasie und Transzendenz“  **Samstag, 13. September um 18 Uhr** Klavierabend mit Carmen Piazzini
