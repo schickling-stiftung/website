@@ -35,11 +35,14 @@ Eintritt frei**Pfingstmontag, 9. Juni um 16 Uhr** [„Landschaft im Wort“](/
 Elisabeth Verhoeven, Rezitation     
 Prof. Hartmut Höll, Klavier 
 Lesung aus dem Buch „WortMusik“ von Hartmut Höll
-**Sonntag, 27. Juli 2014 17 Uhr** [“Wenn der Töne Zauber walten”](/veranstaltungen/2014/hopfenzitz/)  Sommerliches Konzert der Grossfamilie Hopfenzitz Teil 2  Ernste und heitere Lieder, Arien und Instrumentalstücke**Samstag, 6. September um 19 Uhr** „Sommerabend im Museum“  Lieder und Klavierwerke von Mendelssohn, Brahms, Mahler u.a.  mit Susanne Schlegel, Alt; Ulrike Meyer, Klavier**12. - 14. September** Eggisrieder Seminar für „Musik und Transzendenz“  (Gesamtprogramm des Seminares auf Anfrage!)**Freitag, 12. September um 18 Uhr** Konzert der Teilnehmer
-**Samstag, 13. September um 10 Uhr** Vortrag über „Fantasie und Transzendenz“  **Samstag, 13. September um 18 Uhr** Klavierabend mit Carmen Piazzini
+**Sonntag, 27. Juli 2014 17 Uhr** [“Wenn der Töne Zauber walten”](/veranstaltungen/2014/hopfenzitz/)  Sommerliches Konzert der Grossfamilie Hopfenzitz Teil 2  Ernste und heitere Lieder, Arien und Instrumentalstücke**Samstag, 6. September um 19 Uhr** [„Sommerabend im Museum“](/veranstaltungen/2014/schlegel/)Lieder und Klavierwerke von Mendelssohn, Brahms, Mahler u.a.  mit [Susanne Schlegel, Alt](/veranstaltungen/2014/schlegel/); Ulrike Meyer, Klavier  
+**12. - 14. September** [Eggisrieder Seminar für „Musik und Transzendenz“](/veranstaltungen/2014/seminar/)   
+(Seminarflyer auf Anfrage als pdf)**Freitag, 12. September um 18 Uhr** Konzert der Teilnehmer
+**Samstag, 13. September um 10 Uhr** [Vortrag über „Fantasie und Transzendenz“](/veranstaltungen/2014/seminar/drechsler/)   
+mit Prof. Dr. Nanny Drechsler **Samstag, 13. September um 18 Uhr** [Klavierabend mit Carmen Piazzini](/veranstaltungen/2014/seminar/piazzini/)
   W. A. Mozart		Fantasie und Sonate c-moll  R. Schumann		Fantasie C-Dur  Musik aus Argentinien
 
-**Sonntag, 14. September um 12 Uhr** „Der Thoraschreiber“   
+**Sonntag, 14. September um 12 Uhr** [„Der Thoraschreiber“](/veranstaltungen/2014/seminar/thoraschreiber/)   
 und andere Geschichten aus dem Osten mit dem Erzähler Alexander Kostinskij (München)  
 Klezmermusik und Improvisationen mit Günter Schwanghart, Klarinette, und Partnern
 
