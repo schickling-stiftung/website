@@ -7,7 +7,7 @@ images:
    file: g-glockenturm.jpg
  - link: 3
    file: g-konzertraum.jpg
-thought: /bildgedanken/pfingsten2014/
+thought: /bildgedanken/weihnachten-2014/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

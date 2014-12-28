@@ -25,6 +25,7 @@ subnav:
 1964 [Ägidius-Kirche Pottenstetten](http://www.st-vitus.de/potindex.html) (Oberpfalz): Altarkreuz, Kreuzweg  
 1966 Memmingerberg: Altarkreuz St.Ambrosius  
 1967 [Regensburg St.Konrad](/werke/kirchen/regensburg-st-konrad/): Glasfenstergiebel  
+1969 München-Pullach [Schöpfungsfenster St.Gabriel](/werke/kirchen/pullach/)  
 1973 Rio de Janeiro: Bonifatius-Wandbild  
 1976-80 Regensburg-Königswiesen St.Paul: Altarrückwand und Glasfenster  
 1977-81 [St.Peter-Ording](/werke/kirchen/st-peter-ording/): [Glasfenster und Altarwand in St.Ulrich](http://www.nord-katholiken.de/St-Peter-Ording-St-Ulrich.html)    

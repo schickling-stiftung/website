@@ -2,7 +2,7 @@
 title: Führungen
 ---
 
-Führungen sonntags um 15 Uhr   
+Führungen sonntags um 15 Uhr von April bis Oktober  
 Anmeldung empfohlen unter Tel. 08332-936424 oder 0171-9715083        
 info@schickling-stiftung.de
 

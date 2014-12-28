@@ -2,19 +2,11 @@
 title: Aktuelles
 ---
 
-[**Führungen**](/fuehrungen/) sonntags um 15 Uhr
+Von Oktober bis März finden Führungen oder Besichtigungen nur nach Ver-einbarung statt.
 
-**Veranstaltungen im September:**
+[**Führungen**](/fuehrungen/) sonntags um 15 Uhr wieder ab April 2015
+
+**Die Veranstaltungen 2015 werden in Kürze hier erscheinen.**
     
 
-Samstag, 6. September um 19 Uhr 
-**[„Sommerabend im Museum“](/veranstaltungen/2014/schlegel/)**
-
-12.-14. Sept. [Eggisrieder Seminar](/veranstaltungen/2014/seminar/) 
-offen für Musiker wie für Zuhörer!
-
-Samstag, 13. Sept. um 18 Uhr **[Klavierabend mit Carmen Piazzini](/veranstaltungen/2014/seminar/piazzini/)**
-
-Sonntag, 14. Sept. um 12 Uhr   
-**[„Der Thoraschreiber“](/veranstaltungen/2014/seminar/thoraschreiber/)** und andere Geschichten aus dem Osten
-mit Alexander Kostinskij, Günter Schwanghart, Enes Ludwig
+[Weihnachtsbild 2014](/bildgedanken/weihnachten-2014/)

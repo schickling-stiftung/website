@@ -9,7 +9,7 @@ images:
     file: g-eggseminar.jpg
   - link: 4
     file: g-benedict.jpg
-thought: /bildgedanken/pfingsten2014/
+thought: /bildgedanken/weihnachten-2014/
 ---
 
 [Jahresprogramm 2014](/veranstaltungen/2014/)   
