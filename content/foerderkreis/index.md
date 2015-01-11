@@ -1,11 +1,11 @@
 ---
 title: Förderkreis
 images:
- - link: 1
+ - link: /foerderkreis/insel-loewe/
    file: g-inselloewe.jpg
- - link: 2
+ - link: /foerderkreis/glockenturm/
    file: g-glockenturm.jpg
- - link: 3
+ - link: /foerderkreis/konzertraum/
    file: g-konzertraum.jpg
 thought: /bildgedanken/weihnachten-2014/
 subnav:

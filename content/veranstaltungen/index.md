@@ -5,9 +5,9 @@ images:
     file: g-schneiders.jpg
   - link: /werke/sonnenskulptur/
     file: g-sonne.jpg
-  - link: 3
+  - link: /veranstaltungen/seminar/
     file: g-eggseminar.jpg
-  - link: 4
+  - link: /veranstaltungen/benedict/
     file: g-benedict.jpg
 thought: /bildgedanken/weihnachten-2014/
 ---
