@@ -13,10 +13,10 @@ images:
     file: g-hopfenzitz.jpg
 thought: /bildgedanken/pfingsten2014/
 subnav:
-  - text: 2013
-    link: /veranstaltungen/2013/
   - text: 2014
     link: /veranstaltungen/2014/
+  - text: 2015
+    link: /veranstaltungen/2015/
 ---
  **Führungen und Bildbetrachtungen sonntags um 15 Uhr** ab April.   
 Anmeldung empfohlen! Für Gruppen Termin nach Vereinbarung möglich.  Eintritt 5 €, freier Eintritt für Jugendliche sowie für Mitglieder des Förderkreises**Mittwoch, 19. März um 16 Uhr** „Für Inge“ - Eine Lesung mit Musikgestaltet von der Autorin Antonie Schneider (Weiler im Allgäu)und Ulrike Meyer am Klavier**Samstag, 12. April um 19 Uhr** [Geheimnis des Leidens](/veranstaltungen/2014/kreuzweg/)    Kreuzwegbilder von Erich Schickling mit Texten zur Passion Christi  Rezitation und Textauswahl: Helga Greier (Kempten)Musik: Walter Dolak am Flügel (Füssen)**Samstag, 26. April um 20 Uhr** [Eröffnung der „Kunst-Olympiade“](/veranstaltungen/2014/swiatkowski/) (durch Michael Swiatkowski, Ottobeuren) mit dem chinesischen Bambusflötenspieler Kwok-Wa Chan, der Sängerin Daniela Maul und Romana Jochum gemeinsam mit der Gruppe "Himmelstraum"**Samstag, 3. Mai 2014 um 17 Uhr** 

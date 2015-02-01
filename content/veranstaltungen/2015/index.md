@@ -1,0 +1,59 @@
+---
+title: 2015
+images:
+  - link: /erich-schickling/
+    file: g-shirai.jpg
+  - link: 2
+    file: g-jussow.jpg
+  - link: 3
+    file: g-ena-trommeltanz.jpg
+thought: /bildgedanken/benedikt-2014/
+subnav:
+  - text: 2014
+    link: /veranstaltungen/2014/
+  - text: 2015
+    link: /veranstaltungen/2015/
+---
+
+**Samstag, 28. März um 18 Uhr, vor Palmsonntag**   
+ „... und schüttelt den Staub von euren Füssen!“  Meditative Gedanken zu Leid und Erlösung in der persönlichen Erfahrung   mit Prof. Dr. Lydia Bendel-Maidl, Tübingen   Biblische Bilder von Erich Schickling zur Passionszeit und Vokalmusik a cappella mit dem Schütz-Ensemble
+
+**Sonntag, 19. April 2015 um 17 Uhr**   
+„Gottes Zeit ist die allerbeste Zeit“  Julius Berger spielt CelloSuiten von Johann Sebastian Bach 
+**Sonntag, 26. April um 16 Uhr**   
+„Herr Glück und Frau Unglück“  Eine musikalische Lesung für Kinder und Erwachsene mit der Autorin Antonie Schneider, Hajo Lange am Klavier, dem Kinderchor „Minnies“ und den „Basilikaspatzen“ unter Leitung von Dr. Josef Miltschitzky.Antonie Schneider, vielfach ausgezeichnet für ihre Kinderbücher, stellt ihre lustige und zugleich hintergründige Geschichte von Sympathie und Antipathie und deren phantasievolle Überwindung vor. Das Buch ist 2013 im Thienemann-Verlag erschienen.
+
+**Samstags 11 - 12 Uhr „Mythenklang“**     
+vierzehntägig zwischen Mai und Juli, für Kinder von 6 - 10 Jahren  Hier im Günztal bekommen die Mythen der Antike in den Bildern neues Leben.  Eleni Semertzaki aus Kreta, der Wiege des Abendlandes, erzählt den Kindern vor den Werken des Künstlers Geschichten aus versunkenen Zeiten, bringt sie mit den Kindern in Bewegung und verleiht ihnen ein „Gewand“ aus Klang.  Näheres und feste Termine im extra Flyer!
+
+**Samstag 9. Mai um 17 Uhr „Natur und Musik"**  Studenten des Leopold-Mozart-Zentrums Augsburg konzertieren und moderieren         
+Leitung: Patricia Hein, Prof. Dr. Johannes Hoyer  Zum zweiten Mal stellen Studierende der künstlerischen Klassen (Klavier, Gesang) sowie des Masterstudiengangs Musikvermittlung/Konzertpädagogik des Leopold-Mozart- Zentrums (Universität Augsburg) ein facettenreiches Thema in seinen allgemein kulturellen, insbesondere aber musikalischen Verbindungen und Gestalten vor, diesmal geht es um die Darstellung der Natur in der Musik. Die Günzlandschaft bietet dafür den idealen Rahmen. 
+ 
+**Samstag/ Sonntag 16./17. Mai**   Museumsnacht und Museumstag in der Stiftung  Führungen durch die Stiftung (freier Eintritt) sowie ein reichhaltiges musikalisches Programm mit Prof. Michael Grube (Violine), dem Pantomimen Wolfgang Fendt („Il Mimo führt sich auf“), Walter Dolak (Klavier), Georg Wolf (Schlagzeug), Studenten der Hochschule für Musik Karlsruhe 
+
+**Samstag, 13. Juni um 18 Uhr**  
+Ein literarischer Konzertabend um Franz Schubert  Der Schriftsteller Peter Härtling liest aus seinem Roman „Schubert“.Hartmut Höll, Pianist, Lied- und Kammermusikpartner von Fischer-Dieskau, Mitsuko Shirai, Renée Fleming, Tabea Zimmermann spielt von Schubert die „Moments musicaux“ op. 94 für Klavier sowie eine Auswahl von Liedern zusammen mit dem jungen aufstrebenden Tenor Michael Mogl.
+ 
+**Sonntag, 12. Juli um 17 Uhr**   
+Konzert der Großfamilie Hopfenzitz Teil 3  „Schläft ein Lied in allen Dingen“  Sommerliches Konzert mit ernsten und heiteren Liedern, Arien und Instrumentalstücken 
+ 
+**Samstag, 18. Juli um 18 Uhr**  
+Konzert mit dem Günztaler Kinder - Teenie - Chor   unter Leitung von Christel Holdenried
+ 
+**Sonntag, 2. August um 17 Uhr**  
+„Da steh’ ich nun, ich armer Thor und bin so klug als wie zuvor!“  
+Musikalische Lesung: Helga Greier. Walter Dolak.  
+ 
+**Samstag, 5. September um 19 Uhr**  
+„Sommerabend im Museum“  Else Lasker-Schüler und Gottfried Benn  Ein Programm von Wort und Musik mit Helga Greierund Günter Schwanghart
+
+**Freitag bis Sonntag 11. - 13. September**  16. Eggisrieder Seminar für „Musik und Transzendenz“   
+Thema: „Hut ab, ihr Herrn, ein Genie!“ Über Frédéric Chopin  **Freitag, 11. September um 18 Uhr**  
+Konzert der Teilnehmer  Die 24 Préludes von Chopin, kontrastiert mit Präludien und Fugen von Bach  
+**Samstag, 12. September um 10 Uhr**   
+Vortrag mit Prof. Dr. Nanny Drechsler:    
+"Der Charakter der Tonarten im Werk Chopins"   **Samstag, 12. September um 18 Uhr**  
+Klavierabend Andrej Jussow  
+Die Sonate h-moll op. 58 und andere Werke von Frédéric Chopin            
+**Sonntag, 13. September 10 Uhr**  
+"Chopin und der polnische Tanz"   Der Pianist und Klavierpädagoge Manfred Kratzer (HfM Karlsruhe) spricht über die Mazurken von Chopin und ihre polnischen Ursprünge mit Beispielen am Klavier. Anschliessend zeigt, erklärt und tanzt die Musikpädagogin Carina Polyfka (Ottobeuren) einige Mazurken mit Kindern und mit Seminarteilnehmern.

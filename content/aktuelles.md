@@ -6,7 +6,7 @@ Von Oktober bis März finden Führungen oder Besichtigungen nur nach Ver-einbaru
 
 [**Führungen**](/fuehrungen/) sonntags um 15 Uhr wieder ab April 2015
 
-**Die Veranstaltungen 2015 werden in Kürze hier erscheinen.**
+[**Veranstaltungen 2015**](/veranstaltungen/2015/)
     
 
 [Weihnachtsbild 2014](/bildgedanken/weihnachten-2014/)
