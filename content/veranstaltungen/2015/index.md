@@ -1,12 +1,14 @@
 ---
 title: 2015
 images:
-  - link: /erich-schickling/
-    file: g-shirai.jpg
-  - link: 2
-    file: g-jussow.jpg
-  - link: 3
-    file: g-ena-trommeltanz.jpg
+  - link: /veranstaltungen/2015/dame-mandoline/
+    file: g-dame-mandoline-kl.jpg
+  - link: /veranstaltungen/2015/haertling/
+    file: g-haertling.jpg
+  - link: /veranstaltungen/2015/seminargruppe/
+    file: g-seminargruppe.jpg
+  - link: /veranstaltungen/2015/koenig-david/
+    file: g-koenig-david-blumen.jpg
 thought: /bildgedanken/benedikt-2014/
 subnav:
   - text: 2014
@@ -32,7 +34,7 @@ Leitung: Patricia Hein, Prof. Dr. Johannes Hoyer  Zum zweiten Mal stellen Studi
 **Samstag/ Sonntag 16./17. Mai**   Museumsnacht und Museumstag in der Stiftung  Führungen durch die Stiftung (freier Eintritt) sowie ein reichhaltiges musikalisches Programm mit Prof. Michael Grube (Violine), dem Pantomimen Wolfgang Fendt („Il Mimo führt sich auf“), Walter Dolak (Klavier), Georg Wolf (Schlagzeug), Studenten der Hochschule für Musik Karlsruhe 
 
 **Samstag, 13. Juni um 18 Uhr**  
-Ein literarischer Konzertabend um Franz Schubert  Der Schriftsteller Peter Härtling liest aus seinem Roman „Schubert“.Hartmut Höll, Pianist, Lied- und Kammermusikpartner von Fischer-Dieskau, Mitsuko Shirai, Renée Fleming, Tabea Zimmermann spielt von Schubert die „Moments musicaux“ op. 94 für Klavier sowie eine Auswahl von Liedern zusammen mit dem jungen aufstrebenden Tenor Michael Mogl.
+Ein literarischer Konzertabend um Franz Schubert  Der Schriftsteller Peter Härtling liest aus seinem Roman „Schubert“.  Hartmut Höll, Pianist, Lied- und Kammermusikpartner von Fischer-Dieskau, Mitsuko Shirai, Renée Fleming, Tabea Zimmermann spielt von Schubert die „Moments musicaux“ op. 94 für Klavier sowie eine Auswahl von Liedern zusammen mit dem Tenor Michael Mogl.
  
 **Sonntag, 12. Juli um 17 Uhr**   
 Konzert der Großfamilie Hopfenzitz Teil 3  „Schläft ein Lied in allen Dingen“  Sommerliches Konzert mit ernsten und heiteren Liedern, Arien und Instrumentalstücken 
