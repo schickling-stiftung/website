@@ -5,6 +5,7 @@ website
 
 ```sh
 $ gem install bundler
+$ brew install imagemagick
 ```
 
 ## Installation
