@@ -36,10 +36,7 @@ Dr. Martin Brüske, Universität Fribourg: Festvortrag
 **„Traum - Schöpfung - Geheimnis:  
 Das Bild und seine Aufhebung im Blick auf Erich Schickling“**  
 
-Dimitri Schostakowitsch (1906-1975): Sonate für Viola und Klavier, Op. 147 (komp. 1975) 
-in der Übertragung für Cello und Klavier 
- 
-[Prof. David Grigorian, Violoncello; Prof. Ludmilla Lissovaja, Klavier](/veranstaltungen/2014/gedenkfeier/grigorian/) (München)
+Prof. David Grigorian, Violoncello; Prof. Ludmilla Lissovaja, Klavier (München)
 
 **Sonntag, den 4. Mai um 11 Uhr** Gottesdienst in der Krypta der Basilika Ottobeuren
 

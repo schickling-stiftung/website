@@ -34,7 +34,7 @@ Leitung: Patricia Hein, Prof. Dr. Johannes Hoyer  Zum zweiten Mal stellen Studi
 **Samstag/ Sonntag 16./17. Mai**   Museumsnacht und Museumstag in der Stiftung  Führungen durch die Stiftung (freier Eintritt) sowie ein reichhaltiges musikalisches Programm mit Prof. Michael Grube (Violine), dem Pantomimen Wolfgang Fendt („Il Mimo führt sich auf“), Walter Dolak (Klavier), Georg Wolf (Schlagzeug), Studenten der Hochschule für Musik Karlsruhe 
 
 **Samstag, 13. Juni um 18 Uhr**  
-Ein literarischer Konzertabend um Franz Schubert  Der Schriftsteller Peter Härtling liest aus seinem Roman „Schubert“.  Hartmut Höll, Pianist, Lied- und Kammermusikpartner von Fischer-Dieskau, Mitsuko Shirai, Renée Fleming, Tabea Zimmermann spielt von Schubert die „Moments musicaux“ op. 94 für Klavier sowie eine Auswahl von Liedern zusammen mit dem Tenor Michael Mogl.
+Ein literarischer Konzertabend um Franz Schubert  Der Schriftsteller [Peter Härtling](http://faustkultur.de/1506-0-Peter-Hrtling-zum-80.html#.VN0ZzlOG_mM) liest aus seinem Roman „Schubert“.  [Hartmut Höll](http://www.hit-karlsruhe.de/hfm-ka/hfm/03-studium/dozentenverzeichnis/bios/hoell-hartmut.htm), Pianist, Lied- und Kammermusikpartner von Fischer-Dieskau, Mitsuko Shirai, Renée Fleming, Tabea Zimmermann spielt von Schubert die „Moments musicaux“ op. 94 für Klavier sowie eine Auswahl von Liedern zusammen mit dem Tenor [Michael Mogl](http://www.neue-stimmen.de/lied/teilnehmer/teilnehmer-details/all/434/).
  
 **Sonntag, 12. Juli um 17 Uhr**   
 Konzert der Großfamilie Hopfenzitz Teil 3  „Schläft ein Lied in allen Dingen“  Sommerliches Konzert mit ernsten und heiteren Liedern, Arien und Instrumentalstücken 
