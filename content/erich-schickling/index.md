@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: 4
     file: g-leo.jpg
-thought: /bildgedanken/weihnachten-2014/
+thought: /bildgedanken/damemandoline2015/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/

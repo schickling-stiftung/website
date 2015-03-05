@@ -9,7 +9,7 @@ images:
     file: g-eggseminar.jpg
   - link: /veranstaltungen/benedict/
     file: g-benedict.jpg
-thought: /bildgedanken/weihnachten-2014/
+thought: /bildgedanken/damemandoline2015/
 ---
 
 [Jahresprogramm 2014](/veranstaltungen/2014/)   

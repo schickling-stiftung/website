@@ -9,7 +9,7 @@ images:
     file: g-seminargruppe.jpg
   - link: /veranstaltungen/2015/koenig-david/
     file: g-koenig-david-blumen.jpg
-thought: /bildgedanken/benedikt-2014/
+thought: /bildgedanken/damemandoline2015/
 subnav:
   - text: 2014
     link: /veranstaltungen/2014/

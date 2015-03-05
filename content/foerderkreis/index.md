@@ -7,7 +7,7 @@ images:
    file: g-glockenturm.jpg
  - link: /foerderkreis/konzertraum/
    file: g-konzertraum.jpg
-thought: /bildgedanken/weihnachten-2014/
+thought: /bildgedanken/damemandoline2015/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

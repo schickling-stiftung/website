@@ -11,7 +11,7 @@ images:
     file: g-grube.jpg
   - link: /veranstaltungen/2014/hopfenzitz/
     file: g-hopfenzitz.jpg
-thought: /bildgedanken/benedikt-2014/
+thought: /bildgedanken/damemandoline2015/
 subnav:
   - text: 2014
     link: /veranstaltungen/2014/
