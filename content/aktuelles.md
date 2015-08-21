@@ -2,12 +2,19 @@
 title: Aktuelles
 ---
 
-Von Oktober bis März finden Führungen oder Besichtigungen nur nach Ver-einbarung statt.
-
-[**Führungen**](/fuehrungen/) sonntags um 15 Uhr wieder ab April 2015     
-Zusätzliche Öffnungszeiten ab April: wochentags 14-17Uhr ausser mittwochs
+[**Führungen**](/fuehrungen/) sonntags um 15 Uhr
 
 [**Veranstaltungen 2015**](/veranstaltungen/2015/)   
 [**Flyer**](/flyer/)
     
 
+[**Der Flyer für die Kinder**](/veranstaltungen/2015/kinderflyer1/)
+
+[**Der Sommerabend im Museum**](/veranstaltungen/2015/sommerabend/)     
+am Samstag, 5.September um 19 Uhr
+mit Helga Greier und Günter Schwanghart
+
+[**Frédéric Chopin**](/veranstaltungen/2015/seminar/)   
+Klavierabend mit Andrej Jussow  
+am Samstag, 12. September um 18 Uhr
+und weitere Veranstaltungen im XVI. Eggisrieder Seminar
