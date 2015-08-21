@@ -4,7 +4,7 @@ rm -rf output
 mkdir output
 cd output
 git init
-git remote add origin git@github.com:schickling-stiftung/schickling-stiftung.github.io.git
+git remote add origin https://ulrikemeyer@github.com/schickling-stiftung/schickling-stiftung.github.io.git
 git pull origin master
 git rm -r *
 cd ..
