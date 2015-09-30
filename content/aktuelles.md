@@ -2,19 +2,14 @@
 title: Aktuelles
 ---
 
-[**Führungen**](/fuehrungen/) sonntags um 15 Uhr
+[**Führungen**](/fuehrungen/) sonntags um 15 Uhr  
+bis Ende Oktober  
+Für Gruppen nach Vereinbarung
 
 [**Veranstaltungen 2015**](/veranstaltungen/2015/)   
-[**Flyer**](/flyer/)
+
     
-
-[**Der Flyer für die Kinder**](/veranstaltungen/2015/kinderflyer1/)
-
-[**Der Sommerabend im Museum**](/veranstaltungen/2015/sommerabend/)     
-am Samstag, 5.September um 19 Uhr
-mit Helga Greier und Günter Schwanghart
-
-[**Frédéric Chopin**](/veranstaltungen/2015/seminar/)   
-Klavierabend mit Andrej Jussow  
-am Samstag, 12. September um 18 Uhr
-und weitere Veranstaltungen im XVI. Eggisrieder Seminar
+Letzte Veranstaltung diesen Jahres:  
+[Konzert Koreanischer Freunde](/veranstaltungen/2015/korea/)  
+am Sonntag, 11.Oktober um 15 Uhr
+  

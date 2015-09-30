@@ -93,3 +93,11 @@ Balladen und Scherzi von Frédéric Chopin
 "Chopin und der polnische Tanz"     
 Der Pianist und Klavierpädagoge Manfred Kratzer (HfM Karlsruhe) spricht über die Mazurken von Chopin und ihre polnischen Ursprünge mit Beispielen am Klavier. Anschliessend zeigt, erklärt und tanzt die Musikpädagogin Carina Polyfka (Ottobeuren) einige Mazurken mit Kindern und mit Seminarteilnehmern.
 
+[**Sonntag, 11. Oktober um 15 Uhr**
+“Arirang” und “Heidenröslein”](/veranstaltungen/2015/korea/)   
+Ein Konzert mit Koreanischem Frauenchor und Solisten  
+Leitung: Jhesuk Han
+Klavier: Prof. Kaya Han   Querflöte: Prof. Renate Greiss-Armin
+Koreanischer Tanz: Ena Han  
+Sologesang: Myongok Lee und Minjeung Lee, Sopran, und Seokja Kang, Mezzosopran
+
