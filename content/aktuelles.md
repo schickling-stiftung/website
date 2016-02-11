@@ -2,14 +2,9 @@
 title: Aktuelles
 ---
 
-[**Führungen**](/fuehrungen/) sonntags um 15 Uhr  
-bis Ende Oktober  
-Für Gruppen nach Vereinbarung
+Besichtigungen und [**Führungen**](/fuehrungen/) im Winter nur auf Anfrage  
 
-[**Veranstaltungen 2015**](/veranstaltungen/2015/)   
+
+[**Veranstaltungen 2016**](/veranstaltungen/2016/)  
 
     
-Letzte Veranstaltung diesen Jahres:  
-[Konzert Koreanischer Freunde](/veranstaltungen/2015/korea/)  
-am Sonntag, 11.Oktober um 15 Uhr
-  

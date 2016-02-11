@@ -11,10 +11,10 @@ images:
     file: g-koenig-david-blumen.jpg
 thought: /bildgedanken/damemandoline2015/
 subnav:
-  - text: 2014
-    link: /veranstaltungen/2014/
   - text: 2015
     link: /veranstaltungen/2015/
+  - text: 2016
+    link: /veranstaltungen/2016/
 ---
 
 [**Samstag, 28. März um 18 Uhr, vor Palmsonntag**](/veranstaltungen/2015/palmsamstag/)   
