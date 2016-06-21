@@ -38,28 +38,28 @@ Essay von Ulrich Fentzloff (Langenargen)
 Poesie & Piano mit Dieter Schaller und Joachim Hammer (Miltenberg/ Untermain)    
 Seit vielen Jahren bilden Dieter Schaller und Joachim Hammer ein Traumpaar der Poesie am Untermain. Ihre Programme „Poesie und Piano“ leben von der lebhaften szenischen Rezitation ebenso wie von den feinsinnigen, assoziationsreichen Improvisationen des Pianisten.   
 
-[**Sonntag, 24. April um 15 Uhr**](/veranstaltungen/2016//)   "l'après-midi d'un faune"       
+[**Sonntag, 24. April um 15 Uhr**](/veranstaltungen/2016/floete/)   "l'après-midi d'un faune"       
 Duo-Konzert für Flöte und Klavier   
 Werke von Bach bis Debussy  
-Prof. Renate Greiss-Armin, Querflöte
-Prof. Kaya Han, Klavier  
+[Prof. Renate Greiss-Armin, Querflöte](/veranstaltungen/2016/greiss/)   
+[Prof. Kaya Han, Klavier](/veranstaltungen/2016/han/)
 
-**Sonntag, 8. Mai Muttertag**     
+[**Sonntag, 8. Mai Muttertag**](/veranstaltungen/2016/kellerer/)  
 15 Uhr Führung für Kinder und Familien   
 und anschl.  
 16.30 Uhr Kleines Konzert mit Andreas Kellerer (Querflöte) und seiner Tochter Theresa an der Harfe (ca.30min.)
 
 [**Freitag, 13. Mai um 19 Uhr (vor Pfingsten)**](/veranstaltungen/2016/traum-pickau/)   
 „Traum von Pickau“  
-Bildbetrachtungen mit Prof. Dr. Lydia Bendel-Maidl (Tübingen/ München) über mythische und biblische Bildmotive von Erich Schickling. Chorisch kontrapunktiert mit Madrigalen von Claudio Monteverdi unter Leitung von Georg Piel, Dr. Josef Miltschitzky und Volker Zapp.
+Bildbetrachtungen mit [Prof. Dr. Lydia Bendel-Maidl](/veranstaltungen/2016/bendel/) (Tübingen/ München) über mythische und biblische Bildmotive von Erich Schickling. Chorisch kontrapunktiert mit Madrigalen von Claudio Monteverdi unter Leitung von Georg Piel, Dr. Josef Miltschitzky und Volker Zapp.
 
-**Sonntag, 22. Mai Museumstag in der Stiftung**  
+[**Sonntag, 22. Mai Museumstag in der Stiftung**](/veranstaltungen/2016/museumstag/)  
 10 - 12 Uhr Freier Eintritt in die Ausstellungsräume  
 15 Uhr Kurze Führung in Kapelle und Ausstellungsräume  
 16 Uhr Veranstaltung: Heimat Schwaben „Landschaft - Geschichte - Kunst“  
 mit Prof. Dr. Hans Frei (Konzept und Text), Alois Sailer (Gedichte) und Josef Bichlmair (Musikalische Gestaltung an der Zither)
 
-**Samstag 4. Juni um 17 Uhr**    
+[**Samstag 4. Juni um 17 Uhr**](/veranstaltungen/2016/augsburgerhoyer/)  
 „Unerhört! – Komponierende Frauen“ 
 Ein Projekt-Konzert von Studierenden des Leopold-Mozart-Zentrums Augsburg unter Leitung von Prof. Dr. Johannes Hoyer  
 Darf eine Frau komponieren? Diese heutzutage eher irritierende Frage wurde
@@ -70,17 +70,18 @@ Komponistinnen waren es auch Malerinnen, die mit Farbtönen versuchten sich
 Gehör zu verschaffen. Der Masterstudiengang Musikvermittlung/Konzertpädagogik taucht ein in die Klang- und Farbwelten starker Frauen aus Musik und Malerei.
 
  
-**Sonntag, 12. Juni  um 11 Uhr**   
-„Die Schöne Müllerin“ von Franz Schubert  
-Eine Matinée mit dem Tenor Michael Mogl, mit dem Schriftsteller Peter Härtling und mit dem Pianisten Prof. Hartmut Höll.   
-
-Dieses „Dreigestirn“ schenkte der Schickling-Stiftung im letzten Jahr tiefe Einblicke in Schuberts Leben und Hineinhorchen ins Lied, das die feinste Verbindung von Wort und Ton eingeht. Diesmal bildet das Wandern, das „wandernde Wasser“ das Leitmotiv des literarischen Konzerts. Hinzu gesellt sich die junge Pianistin Melanie Bähr, sie spielt im Duo mit Hartmut Höll die berühmte F-Moll-Fantasie von Schubert.
+[**Sonntag, 12. Juni  um 11 Uhr**](/veranstaltungen/2016/matinee/)
+„Finsternis und Licht“ – eine Matinée in Wort und Musik  
   
- **Sonntag, 3. Juli um 16.30 Uhr** Musik nach der Führung  
+Leider kann das angekündigte Programm „Die Schöne Müllerin“ von Franz Schubert mit dem Schriftsteller Peter Härtling aus gesundheitlichen Gründen nicht stattfinden. 
+
+Kurzfristig bietet sich dafür dem Publikum durch Prof. Hartmut Höll (Rektor der Hochschule) und unter Leitung von Prof. Sontraud Speidel von der Hochschule für Musik Karlsruhe ein reichhaltiges Konzert mit jungen Musikerinnen und Musikern, die Preisträger nationaler und wie auch internationaler Wettbewerbe sind. Die Violin- und Klavierwerke sind eingebunden in Texte und Gedichte von Konfuzius bis zur Gegenwart und beleuchten das Thema: „Finsternis und Licht“ 
+  
+ [**Sonntag, 3. Juli um 16.30 Uhr**](/veranstaltungen/2016/gabriel/) Musik nach der Führung  
  Der junge Ottobeurer Pianist Gabriel Miltschitzky steht vor dem Abschluss seines BA-Klavierstudiums an der Kirchenmusikhochschule in Regensburg. Sein ca. 40-minütiges Prüfungsprogramm (von Bach bis Rachmaninow) musiziert er zuerst bei uns
  
-**Sonntag, 10. Juli um 17.00 Uhr**
-Jüdische Geschichten und Musik
+[**Sonntag, 10. Juli um 17.00 Uhr**](/veranstaltungen/2016/kostinskij/)
+Jüdische Geschichten und Musik  
 mit Alexander  Kostinskij (München),  dazu das "Trio Kleznova": 
 Günter Schwanghart (Klarinette), Enes Ludwig (Gitarre), Alwin Zwibel (Kontrabass)
 
