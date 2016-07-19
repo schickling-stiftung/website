@@ -7,12 +7,8 @@ Besichtigungen und [**Führungen**](/fuehrungen/) sonntags um 15 Uhr. Weitere na
 
 [**Veranstaltungen 2016**](/veranstaltungen/2016/)  
 
-[**Sonntag, 3. Juli um 16.30 Uhr**](/veranstaltungen/2016/gabriel/) 
-Musik nach der Führung: Gabriel Miltschitzky
+[**Freitag, 22. Juli um 17 Uhr**](/veranstaltungen/2016/maerchen/)
+"Märchengeheimnisse" mit Helga Greier und Daaje Brill
 
-[**Sonntag, 10. Juli um 17.00 Uhr**](/veranstaltungen/2016/kostinskij/)
-Jüdische Geschichten und Musik 
-
-
-
-    
+[**Sonntag, 31. Juli um 18 Uhr**](/veranstaltungen/2016/tiramisu/)
+„Die Gedanken sind frei“ mit dem A-Cappella-Trio "Tiramisu"

@@ -87,13 +87,13 @@ Günter Schwanghart (Klarinette), Enes Ludwig (Gitarre), Alwin Zwibel (Kontrabas
 
 Wenn Alexander Kostinskij erzählt, bekommt das Leben plötzlich die Leichtigkeit, die es nur in der Fantasie, in der Kunst und in der Weisheit hat. Seine Weisheit ist gespeist durch das wirklich arm-selige Leben im ostjüdischen „Schtetl“ seiner Kindheit: arm im alltäglichen, selig im geistigen Sinne. Aus dieser Quelle fliessen des Dichters Geschichten. „Lied von der Quelle“ ist auch eine der musikalischen und menschlichen Botschaften des Klarinettisten und begnadeten Improvisators Günter Schwanghart. Er und seine Musikerfreunde lassen wieder aufhorchen!
  
-**Freitag, 22. Juli um 17 Uhr** Märchengeheimnisse  
+[**Freitag, 22. Juli um 17 Uhr**](/veranstaltungen/2016/maerchen/)  Märchengeheimnisse    
 für Kinder zwischen sieben und zwölf Jahren,
 aufgeschrieben und vorgelesen von Helga Greier,
-mit kleinen musikalischen Überraschungen.
+Musik mit Daaje Brill an der Harfe.
 
-**Sonntag, 31. Juli um 18 Uhr** „Die Gedanken sind frei“   
-Das A-cappella-Trio „Tiramisu“, bestehend aus Sissi Eichhorn-Schleinkofer (MezzoSopran), Gudrun Karlstetter (Sopran) und Sybille Dörner (Alt) serviert ein leichtfüssig-hintersinniges Programm aus ihrem schwäbisch-bayerisch-irischen Liedschatzkästlein. Wer noch nicht im Urlaub ist, kann ihn an diesem Abend beginnen.
+[**Sonntag, 31. Juli um 18 Uhr**](/veranstaltungen/2016/tiramisu/) „Die Gedanken sind frei“   
+Das A-cappella-Trio „Tiramisu“, bestehend aus Sissi Eichhorn-Schleinkofer (MezzoSopran), Gudrun Karlstetter (Sopran) und Sybille Dörner (Alt) serviert ein leichtfüssig-hintersinniges Programm aus ihrem schwäbisch-bayerisch-irischen Liedschatzkästlein.
 
 **Sonntag, 21. August um 16.30 Uhr** Musik nach der Führung  
 Prof. Michael Grube (Quito, Ecuador) musiziert Werke für Violine solo von Bach (Chaconne d-moll), Vieuxtemps, Wieniawski und Max Reger (ca. 60 min)
