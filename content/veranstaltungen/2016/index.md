@@ -95,8 +95,8 @@ Musik mit Daaje Brill an der Harfe.
 [**Sonntag, 31. Juli um 18 Uhr**](/veranstaltungen/2016/tiramisu/) „Die Gedanken sind frei“   
 Das A-cappella-Trio „Tiramisu“, bestehend aus Sissi Eichhorn-Schleinkofer (MezzoSopran), Gudrun Karlstetter (Sopran) und Sybille Dörner (Alt) serviert ein leichtfüssig-hintersinniges Programm aus ihrem schwäbisch-bayerisch-irischen Liedschatzkästlein.
 
-**Sonntag, 21. August um 16.30 Uhr** Musik nach der Führung  
-Prof. Michael Grube (Quito, Ecuador) musiziert Werke für Violine solo von Bach (Chaconne d-moll), Vieuxtemps, Wieniawski und Max Reger (ca. 60 min)
+[**Sonntag, 21. August um 16.30 Uhr** Musik nach der Führung](/veranstaltungen/2016/grube/)  
+Prof. Michael Grube (Quito, Ecuador) musiziert Werke für Violine solo von Bach (Chaconne d-moll), Vieuxtemps, Wieniawski und Max Reger (ca. 70 min)
 
 [**Freitag bis Sonntag 9. - 11. September**  
 17. Eggisrieder Seminar für „Musik und Transzendenz“](/veranstaltungen/2016/seminar/)   
@@ -117,8 +117,8 @@ Vortrag von Prof. Dr. Johannes Walter, Hochschule für Musik Karlsruhe
 anschliessend Gesprächsrunde
    
 
-**Samstag, 10. September um 18 Uhr**  Solo-Recital Schlagzeug
- mit Leonie Klein
+[**Samstag, 10. September um 18 Uhr**  Solo-Recital Schlagzeug
+ mit Leonie Klein](/veranstaltungen/2016/leonie/)
   
 **Sonntag, 11. September 10 Uhr**    
 Tonartenarchitektur als Bedeutungsträger.   

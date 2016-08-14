@@ -7,8 +7,14 @@ Besichtigungen und [**Führungen**](/fuehrungen/) sonntags um 15 Uhr. Weitere na
 
 [**Veranstaltungen 2016**](/veranstaltungen/2016/)  
 
-[**Freitag, 22. Juli um 17 Uhr**](/veranstaltungen/2016/maerchen/)
-"Märchengeheimnisse" mit Helga Greier und Daaje Brill
 
-[**Sonntag, 31. Juli um 18 Uhr**](/veranstaltungen/2016/tiramisu/)
-„Die Gedanken sind frei“ mit dem A-Cappella-Trio "Tiramisu"
+[**Sonntag, 21. August um 16.30 Uhr** Musik nach der Führung](/veranstaltungen/2016/grube/)  
+Prof. Michael Grube (Quito, Ecuador) musiziert Werke für Violine solo
+
+[**Freitag bis Sonntag 9.-11. Sept.**  
+ 17. Eggisrieder Seminar für „Musik und Transzendenz“](/veranstaltungen/2016/seminar/)   
+Stimmt die Musik unsere Seele?
+
+[**Samstag, 10. September um 18 Uhr**](/veranstaltungen/2016/leonie/)   
+Solo-Recital Schlagzeug   
+ mit Leonie Klein
