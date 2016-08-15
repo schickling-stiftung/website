@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: 4
     file: g-leo.jpg
-thought: /bildgedanken/ostern2016/
+thought: /bildgedanken/mariaehimmelfahrt2016/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/

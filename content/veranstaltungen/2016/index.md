@@ -11,7 +11,7 @@ images:
     file: g-sonne.jpg
   - link: /veranstaltungen/2016/publikum/
     file: g-publikum.jpg
-thought: /bildgedanken/ostern2016/
+thought: /bildgedanken/mariaehimmelfahrt2016/
 subnav:
   - text: 2015
     link: /veranstaltungen/2015/

@@ -9,7 +9,7 @@ images:
     file: g-eggseminar.jpg
   - link: /veranstaltungen/benedict/
     file: g-benedict.jpg
-thought: /bildgedanken/ostern2016/
+thought: /bildgedanken/mariaehimmelfahrt2016/
 ---
 
 [Jahresprogramm 2015](/veranstaltungen/2015/)   

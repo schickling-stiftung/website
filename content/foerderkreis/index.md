@@ -7,7 +7,7 @@ images:
    file: g-glockenturm.jpg
  - link: /foerderkreis/konzertraum/
    file: g-konzertraum.jpg
-thought: /bildgedanken/ostern2016/
+thought: /bildgedanken/mariaehimmelfahrt2016/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

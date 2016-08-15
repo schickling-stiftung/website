@@ -7,7 +7,7 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/ostern2016/
+thought: /bildgedanken/mariaehimmelfahrt2016/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/
