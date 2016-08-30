@@ -108,14 +108,18 @@ mit den Referenten Prof. Dr. Johannes Walter (HfM Karlsruhe) und Dr. Martin Brü
 
 Das Seminar wird von interessierten Laien genauso besucht wie von aktiven Musikern und Musikstudierenden. Die Vorträge und Konzerte des Seminars können auch im einzelnen besucht werden. 
   
-**Freitag, 9. September um 18 Uhr**  Konzert der Teilnehmer 
+**Freitag, 9. September um 18 Uhr**  Konzert der Teilnehmer    
+Karlsruher Musikstudenten musizieren Werke für Klavier, Kammermusik und Vokales
+von Bach, Bartok, Mozart, Purcell, Clara & Robert Schumann, Tschaikowsky, Aydingül
 
 
 **Samstag, 10. September um 10 Uhr**   
 „Niemand setzt mir Schranken“ - Tonarten(un)verwandtschaft  
 Vortrag von Prof. Dr. Johannes Walter, Hochschule für Musik Karlsruhe  
-anschliessend Gesprächsrunde
-   
+anschliessend Gesprächsrunde   
+
+15 Uhr	Freiraum für Improvisation mit dem Klarinettisten Günter Schwanghart und dem Kontrabassisten Alwin Zwibel 
+      
 
 [**Samstag, 10. September um 18 Uhr**  Solo-Recital Schlagzeug
  mit Leonie Klein](/veranstaltungen/2016/leonie/)
