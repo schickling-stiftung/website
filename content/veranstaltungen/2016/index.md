@@ -100,7 +100,7 @@ Prof. Michael Grube (Quito, Ecuador) musiziert Werke für Violine solo von Bach 
 
 [**Freitag bis Sonntag 9. - 11. September**  
 17. Eggisrieder Seminar für „Musik und Transzendenz“](/veranstaltungen/2016/seminar/)   
-Stimmt die Musik unsere Seele?  
+[Stimmt die Musik unsere Seele?](/veranstaltungen/2016/seminar/noichlsem/) 
 Vom Charakter der Tonarten.    
 Ein Gang durch die Musikgeschichte.   
  
@@ -122,7 +122,8 @@ anschliessend Gesprächsrunde
       
 
 [**Samstag, 10. September um 18 Uhr**  Solo-Recital Schlagzeug
- mit Leonie Klein](/veranstaltungen/2016/leonie/)
+ mit Leonie Klein](/veranstaltungen/2016/leonie/)  
+[Schlagkräftig und voller Klangsinn](http://www.swr.de/swr2/programm/sendungen/am-samstagnachmittag/schlagkraeftig-und-voller-klangsinn-die-multi-perkussionistin-leonie-klein/-/id=10710046/did=18269702/nid=10710046/llr2ah/index.html)
   
 **Sonntag, 11. September 10 Uhr**    
 Tonartenarchitektur als Bedeutungsträger.   

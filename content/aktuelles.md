@@ -6,11 +6,10 @@ Besichtigungen und [**Führungen**](/fuehrungen/) sonntags um 15 Uhr. Weitere na
 
 
 [**Veranstaltungen 2016**](/veranstaltungen/2016/)  
+[17.Eggisrieder Seminar im Rückblick](/veranstaltungen/2016/seminar/noichlsem/)
+[Leonie Klein](http://www.swr.de/swr2/programm/sendungen/am-samstagnachmittag/schlagkraeftig-und-voller-klangsinn-die-multi-perkussionistin-leonie-klein/-/id=10710046/did=18269702/nid=10710046/llr2ah/index.html)
    
-[**Freitag bis Sonntag 9.-11. Sept.**  
- 17. Eggisrieder Seminar für „Musik und Transzendenz“](/veranstaltungen/2016/seminar/)   
-Stimmt die Musik unsere Seele?
+[**Abschied von INGE SCHICKLING**](/inge/)  
+* 19.3.1925  + 22.9.2016
 
-[**Samstag, 10. September um 18 Uhr**](/veranstaltungen/2016/leonie/)   
-Solo-Recital Schlagzeug   
- mit Leonie Klein
+
