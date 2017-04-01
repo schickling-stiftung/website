@@ -7,13 +7,15 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/mariaehimmelfahrt2016/
+thought: /bildgedanken/passion2017/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/
   - text: Schulen
     link: /werke/schulen/
-  - text: Bilder
+  - text: Bilder (Facebook)
+    link: https://www.facebook.com/schicklingstiftung/photos/
+  - text: Bilder (Website)
     link: /werke/bilder/
   - text: Architektur
     link: /werke/architektur/

@@ -1,15 +1,13 @@
 ---
 title: Aktuelles
 ---
+Ab April findet wieder jeden Sonntag um 15 Uhr eine [**Führung**](/fuehrungen/) statt.
+Weitere Öffnungszeiten und Führungen nach Vereinbarung.
 
-Besichtigungen und [**Führungen**](/fuehrungen/) sonntags um 15 Uhr. Weitere nach Vereinbarung. Auch für Kinder. 
+[**Veranstaltungen 2017**](/veranstaltungen/2017/)
 
+[**Werkverzeichnis Erich Schickling**](/werkverzeichnis/)
 
-[**Veranstaltungen 2016**](/veranstaltungen/2016/)  
-[17.Eggisrieder Seminar im Rückblick](/veranstaltungen/2016/seminar/noichlsem/)
-[Leonie Klein](http://www.swr.de/swr2/programm/sendungen/am-samstagnachmittag/schlagkraeftig-und-voller-klangsinn-die-multi-perkussionistin-leonie-klein/-/id=10710046/did=18269702/nid=10710046/llr2ah/index.html)
-   
-[**Abschied von INGE SCHICKLING**](/inge/)  
-* 19.3.1925  + 22.9.2016
+[**Reproduktionen**](/reproduktionen/)
 
-
+[**Exkursion**](/veranstaltungen/2017/exkursion/)

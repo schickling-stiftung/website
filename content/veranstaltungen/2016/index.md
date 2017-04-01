@@ -11,12 +11,12 @@ images:
     file: g-sonne.jpg
   - link: /veranstaltungen/2016/publikum/
     file: g-publikum.jpg
-thought: /bildgedanken/mariaehimmelfahrt2016/
+thought: /bildgedanken/passion2017/
 subnav:
-  - text: 2015
-    link: /veranstaltungen/2015/
   - text: 2016
     link: /veranstaltungen/2016/
+  - text: 2017
+    link: /veranstaltungen/2017/
 ---
 
 [**Sonntag, den 28. Februar 2016 um 17 Uhr**](/veranstaltungen/2016/wrage/)   

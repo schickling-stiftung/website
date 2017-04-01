@@ -9,7 +9,7 @@ images:
    file: g-franziskus.jpg
  - link: /werke/architektur/stiftung/
    file: g-stiftung.jpg
-thought: /bildgedanken/januar-2014/
+thought: /bildgedanken/winter-2017/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/

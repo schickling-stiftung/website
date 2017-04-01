@@ -9,13 +9,13 @@ images:
     file: g-eggseminar.jpg
   - link: /veranstaltungen/benedict/
     file: g-benedict.jpg
-thought: /bildgedanken/mariaehimmelfahrt2016/
+thought: /bildgedanken/passion2017/
 ---
 
-[Jahresprogramm 2015](/veranstaltungen/2015/)   
-[Jahresprogramm 2016](/veranstaltungen/2016/)  
+[Jahresprogramm 2016](/veranstaltungen/2016/)   
+[Jahresprogramm 2017](/veranstaltungen/2017/)  
   
-Alle unsere Künstler und Referenten sind ehrenamtlich für die Stiftung tätig. Sie sind dem Hause Schickling in besonderer Weise verbunden. Ihnen gilt zuerst unser Dank! Manche kommen immer wieder zu uns und machen ihr Wort, ihre Musik, ihre Kunst allen zum Geschenk. 
+Alle unsere Künstler und Referenten sind ehrenamtlich für die Stiftung tätig. Sie sind dem Hause Schickling in besonderer Weise verbunden. Ihnen gilt zuerst unser Dank! Manche kommen immer wieder zu uns und machen ihr Wort, ihre Musik, ihre Kunst allen zum Geschenk. Junge Musiker erproben hier gerne ihre Programme vor einem wohlgesonnenen Publikum.
 
 Möglichst melden Sie sich per mail oder telefonisch unter 08332-936424 oder 0171-9715083 (Ulrike Meyer) zu den Veranstaltungen an. Wir reservieren dann einen Platz für Sie! Mitglieder des Förderkreises haben ermäßgten Eintritt.
 Aber auch spontane Besucher finden meistens noch einen Platz.

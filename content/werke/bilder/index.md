@@ -9,13 +9,15 @@ images:
    file: g-europa-und-stier.jpg
  - link: #
    file: 
-thought: /bildgedanken/januar-2014/
+thought: /bildgedanken/winter-2017/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/
   - text: Schulen
     link: /werke/schulen/
-  - text: Bilder
+  - text: Bilder (Facebook)
+    link: https://www.facebook.com/schicklingstiftung/photos/
+  - text: Bilder (Website)
     link: /werke/bilder/
   - text: Architektur
     link: /werke/architektur/
