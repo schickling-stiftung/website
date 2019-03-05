@@ -7,7 +7,7 @@ images:
    file: g-betonglasfenster.jpg
  - link: /werke/aaron/
    file: g-aaron.jpg
-thought: /bildgedanken/passion2017/
+thought: /bildgedanken/012019labyrinth/
 subnav:
   - text: Kirchen
     link: /werke/kirchen/
@@ -19,6 +19,8 @@ subnav:
     link: /werke/bilder/
   - text: Architektur
     link: /werke/architektur/
+  - text: Reproduktion
+    link: /reproduktionen/
 ---
 
 # Beispiele von Arbeiten in Kirchen und im öffentlichen Raum
@@ -41,4 +43,8 @@ Regensburg: Franziskus-Glasfenster im Elisabethinum
 1991-93 Neunburg v.Wald Dekanatskirche: Glasfenster  
 2001 Pondorf/Donau: Auferstehungsfenster in der Aussegnungshalle
 
-Eine umfassende Liste seiner Werke in Kirchen und Öffentlichem Raum kann bei der Erich-Schickling-Stiftung angefragt werden.
+In einem dreijährigen Projekt wird in der Erich-Schickling-Stiftung das [Werkverzeichnis](/werkverzeichnis/) des Künstlers erstellt. Das Projekt wird dankenswerterweise gefördert von
+- Bezirk Schwaben
+- Landkreis Unterallgäu
+- Marktgemeinde Ottobeuren
+- Erdgas Schwaben

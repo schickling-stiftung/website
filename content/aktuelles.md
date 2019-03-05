@@ -1,13 +1,18 @@
 ---
 title: Aktuelles
 ---
-Ab April findet wieder jeden Sonntag um 15 Uhr eine [**Führung**](/fuehrungen/) statt.
-Weitere Öffnungszeiten und Führungen nach Vereinbarung.
+In der Winterzeit ruhen die regelmässigen Führungen in der Stiftung. Auf Anmeldung sind Besichtigungen und Führungen möglich, jedoch sind die Ausstellungsräume nicht beheizt.
 
-[**Veranstaltungen 2017**](/veranstaltungen/2017/)
+Herzlich willkommen im Neuen Jahr!   
+[**Veranstaltungen 2019**](/veranstaltungen/2019/)  
+  
+[**Flyer**](/flyer/)
 
-[**Werkverzeichnis Erich Schickling**](/werkverzeichnis/)
 
-[**Reproduktionen**](/reproduktionen/)
 
-[**Exkursion**](/veranstaltungen/2017/exkursion/)
+[**"Leben im Bild"**](/bildgedanken/022219franziskus/) Bildgespräche   
+mit Prof. Dr. Lydia Maidl  
+am Freitag, 29. März um 17 Uhr  
+auf Anmeldung!
+
+

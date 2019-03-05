@@ -23,6 +23,7 @@ subnav:
     link: /werke/architektur/
 ---
 
+[Theseus im Labyrinth](/werke/bilder/labyrinth/)    
 [Benedikt, Vater des Abendlandes](/werke/bilder/benedikt/)  
 [Kreuzigung](/werke/bilder/kreuzigung/)   
 [Grüne Günzlandschaft](/werke/bilder/gruene-guenzlandschaft/)    

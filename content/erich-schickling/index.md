@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: 4
     file: g-leo.jpg
-thought: /bildgedanken/passion2017/
+thought: /bildgedanken/012019labyrinth/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/

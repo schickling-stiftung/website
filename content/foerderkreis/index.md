@@ -7,7 +7,7 @@ images:
    file: g-glockenturm.jpg
  - link: /foerderkreis/konzertraum/
    file: g-konzertraum.jpg
-thought: /bildgedanken/passion2017/
+thought: /bildgedanken/012019labyrinth/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

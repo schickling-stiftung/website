@@ -39,5 +39,8 @@ Regensburg: Franziskus-Glasfenster im Elisabethinum
 1991-93 Neunburg v.Wald Dekanatskirche: Glasfenster  
 2001 Pondorf/Donau: Auferstehungsfenster in der Aussegnungshalle
 
-Eine umfassende Liste der Orte mit Kirchen, in denen Werke von Erich Schickling zu finden sind, kann bei der Erich-Schickling-Stiftung angefragt werden.
-
+In einem dreijährigen Projekt wird in der Erich-Schickling-Stiftung das [Werkverzeichnis](/werkverzeichnis/) des Künstlers erstellt. Das Projekt wird dankenswerterweise gefördert von
+- Bezirk Schwaben
+- Landkreis Unterallgäu
+- Marktgemeinde Ottobeuren
+- Erdgas Schwaben

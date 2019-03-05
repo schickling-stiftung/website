@@ -9,11 +9,11 @@ images:
     file: g-eggseminar.jpg
   - link: /veranstaltungen/benedict/
     file: g-benedict.jpg
-thought: /bildgedanken/passion2017/
+thought: /bildgedanken/012019labyrinth/
 ---
-
-[Jahresprogramm 2016](/veranstaltungen/2016/)   
-[Jahresprogramm 2017](/veranstaltungen/2017/)  
+   
+[Jahresprogramm 2018](/veranstaltungen/2018/)   
+[Jahresprogramm 2019](/veranstaltungen/2019/) 
   
 Alle unsere Künstler und Referenten sind ehrenamtlich für die Stiftung tätig. Sie sind dem Hause Schickling in besonderer Weise verbunden. Ihnen gilt zuerst unser Dank! Manche kommen immer wieder zu uns und machen ihr Wort, ihre Musik, ihre Kunst allen zum Geschenk. Junge Musiker erproben hier gerne ihre Programme vor einem wohlgesonnenen Publikum.
 
