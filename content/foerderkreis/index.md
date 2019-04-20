@@ -7,7 +7,7 @@ images:
    file: g-glockenturm.jpg
  - link: /foerderkreis/konzertraum/
    file: g-konzertraum.jpg
-thought: /bildgedanken/012019labyrinth/
+thought: /bildgedanken/032919pythiafranziskus/
 subnav:
   - text: Kataloge
     link: /foerderkreis/kataloge/

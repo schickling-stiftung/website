@@ -9,7 +9,7 @@ images:
     file: g-orpheuseurydike.jpg
   - link: 4
     file: g-leo.jpg
-thought: /bildgedanken/012019labyrinth/
+thought: /bildgedanken/032919pythiafranziskus/
 subnav:
   - text: Der Künstler
     link: /erich-schickling/
